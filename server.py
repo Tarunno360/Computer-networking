@@ -2,7 +2,7 @@ import socket
 
 server_port=8080
 format = 'utf-8'
-buffer_for_message_length = 1024
+buffer_for_message_length = 16
 
 #create the servers address
 hostname= socket.gethostname()
@@ -14,7 +14,7 @@ server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 server.bind(addr)
 
 server.listen() 
-
+print("Server is listening")
 while True:
     conn,add=server.accept()
     print(f"Connection established with {add}")
@@ -25,14 +25,14 @@ while True:
         print("Upcoming message length:", message_length)
         
         if message_length:
-            message_length= int(message_length.strip())
+            message_length= int(message_length)
             message= conn.recv(message_length).decode(format)
             
             if message == "Disconnect":
                 connected = False
                 print("Terminating connection with ",add)
                 conn.send("The session is terminated".encode(format))
-                
+                print("\n")
             else:
                 print(message)
                 conn.send("The server has received the message".encode(format))

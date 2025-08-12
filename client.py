@@ -19,16 +19,16 @@ def message_to_be_sent(message):
     msg_length= str(len(message))
     msg_length= msg_length.encode(format)
     
-    padding=b" "* (buffer_for_message_length - len(msg_length))
+    padding=b" " * (buffer_for_message_length - len(msg_length))
     msg_length+= padding
     
     client.send(msg_length)
     client.send(msg)
     
-    client.recv(2048).decode(format)
+    print(client.recv(2048).decode(format))
     
 message_to_be_sent("Hi")
-message_to_be_sent("Discount")
+message_to_be_sent("Disconnect")
     
     
     
