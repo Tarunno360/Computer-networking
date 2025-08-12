@@ -2,7 +2,7 @@ import socket
 
 server_port=8080
 format = 'utf-8'
-buffer_for_message_length = 1024
+buffer_for_message_length = 16
 
 #create the servers address
 hostname= socket.gethostname()
@@ -14,3 +14,24 @@ client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
 client.connect(addr)
 
+def message_to_be_sent(message):
+    msg= message.encode(format)
+    msg_length= str(len(message))
+    msg_length= msg_length.encode(format)
+    
+    padding=b" "* (buffer_for_message_length - len(msg_length))
+    msg_length+= padding
+    
+    client.send(msg_length)
+    client.send(msg)
+    
+    client.recv(2048).decode(format)
+    
+message_to_be_sent("Hi")
+message_to_be_sent("Discount")
+    
+    
+    
+    
+    
+    

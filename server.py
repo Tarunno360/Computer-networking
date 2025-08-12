@@ -15,4 +15,8 @@ server.bind(addr)
 
 server.listen()  # Listen for incoming connections
 
-
+while True:
+    conn,add=server.accept()
+    print(f"Connection established with {add}")
+      
+    
