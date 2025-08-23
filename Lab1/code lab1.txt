@@ -1,0 +1,96 @@
+R1:
+
+Router>en
+Router#erase startup-config
+Router#reload
+Router>en
+Router#config t
+Router(config)#hostname R2
+R1(config)#no ip domain-lookup
+R1(config)#enable secret class
+banner motd &
+********************************
+!!!AUTHORIZED ACCESS ONLY!!!
+********************************
+line con 0
+password cisco
+login
+line aux 0
+line vty 0 4
+password cisco
+login
+end
+R1#exit
+R1 con0 is now available
+Press RETURN to get started.
+********************************
+!!!AUTHORIZED ACCESS ONLY!!!
+********************************
+User Access Verification
+R1>en
+Password:
+R1#conf t
+R1(config)#interface fa0/0
+R1(config-if)#ip address 192.168.1.1 255.255.255.0
+R1(config-if)#no shut
+R1(config-if)#
+R1(config-if)#exit
+R1(config)#interface se0/0/0
+R1(config-if)#ip address 192.168.2.1 255.255.255.0
+R1(config-if)#clock rate 64000
+R1(config-if)#no shutdown
+R1(config-if)#exit
+R1(config)#exit
+R1#
+R1#copy run start
+R1#
+R1#ping 192.168.1.1
+R1#ping 192.168.2.2
+R1#ping 192.168.3.10
+R1#ping 192.168.3.1
+R1#show ip route
+R1#show ip interface brief
+
+
+R2:
+
+
+Router>en
+Router#erase startup-config
+Router#reload
+Router>en
+Router#config t
+Router(config)#hostname R2
+R2(config)#no ip domain-lookup
+R2(config)#enable secret class
+R2(config)#banner motd &
+********************************
+!!!AUTHORIZED ACCESS ONLY!!!
+********************************
+&
+R2(config)#line console 0
+R2(config-line)#password cisco
+R2(config-line)#login
+R2(config-line)#exit
+R2(config)#line vty 0 4
+R2(config-line)#password cisco
+R2(config-line)#login
+R2(config-line)#exit
+R2(config)#interface se0/0/0
+R2(config-if)#ip address 192.168.2.2 255.255.255.0
+R2(config-if)#no shutdown
+R2(config)#interface fa0/0
+R2(config-if)#ip address 192.168.3.1 255.255.255.0
+R2(config-if)#no shutdown
+R2(config-if)#exit
+R2(config)#exit
+R2#copy run start
+R2#ping 192.168.3.1
+R2#ping 192.168.2.1
+R2#ping 192.168.1.1
+R2#show ip route
+R2#show ip interface brief
+
+
+
+
