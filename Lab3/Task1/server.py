@@ -23,7 +23,7 @@ while True:
     while connected:
         message_length= conn.recv(buffer_for_message_length).decode(format)
         print("Upcoming message length:", message_length)
-        
+
         if message_length:
             message_length= int(message_length)
             message= conn.recv(message_length).decode(format)
@@ -38,5 +38,5 @@ while True:
                 conn.send("The server has received the message".encode(format))
                 print("\n")
             
-conn.close()
+    conn.close()
     

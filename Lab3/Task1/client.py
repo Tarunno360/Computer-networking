@@ -10,9 +10,9 @@ host_ip= socket.gethostbyname(hostname)
 addr= (host_ip,server_port)
 
 # create a socket for the client
-client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+client = socket.socket(socket.AF_INET, socket.SOCK_STREAM) #bivinno info pay tcp protocol eisob ki hobe
 
-client.connect(addr)
+client.connect(addr) 
 
 def message_to_be_sent(message):
     msg= message.encode(format)
