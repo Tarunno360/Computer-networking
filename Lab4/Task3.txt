@@ -1,0 +1,23 @@
+﻿R2$conf t
+Enter configuration commands, one per line.
+End with CNIL/2.
+R2 (config) #ip dhcp excluded-address 192.169.10.1 192.168.10.10
+R2 (config) #ip dhcp excluded-address 192.168.30.1 192.168.30.10
+R2 (config) #ip dhcp pool RI-LAN
+R2 (dhcp-config) #network 192.168.10.0 255.255.255.0
+R2 (dhcp-config) #dns-server 192.168.20.254
+R2 (dhcp-config) #default-router 192.168.10.1
+R2 (dhcp-config) exit
+R2 (config) fip dhcp R3-LAN
+* Invalid input detected at 1^^ marker.
+R2 (config) #ip dhcp pool R3-LAN
+R2 (dhcp-config) network 192.168.30.0 255.255.255.0
+R2 (dhcp-config) #dns-server 192.168.20.254
+R2 (dhcp-config) default-router 192.160.30.1
+R2 (dhcp-config) exit
+R2 (config) fint g0/1
+R2 (config-1f) tip address dhcp
+R2 (config-if) no shut
+R2 (conf1g-1f) exit
+R2 (config) exit
+R2#show ip dhcp binding

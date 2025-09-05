@@ -1,0 +1,52 @@
+﻿PC1
+
+
+ipconfig
+ping 172.16.1.1
+ping 209.165.201.2
+ping 172.16.1.4
+ping 172.16.2.3
+ping 172.16.2.4
+
+
+PC2
+
+
+ipconfig
+ping 172.16.1.1
+ping 209.165.201.2
+ping 172.16.1.4
+ping 172.16.2.3
+ping 172.16.2.4
+
+
+PCA
+
+
+ipconfig
+ping 172.16.1.1
+ping 209.165.201.2
+ping 172.16.1.4
+ping 172.16.2.3
+ping 172.16.2.4
+
+
+PCB
+
+
+ipconfig
+ping 172.16.1.1
+ping 209.165.201.2
+ping 172.16.1.4
+ping 172.16.2.3
+ping 172.16.2.4
+
+
+Router
+
+
+SSH -l Admin01 172.16.1.1
+R1#config t
+R1(config)#int g0/1
+R1(config-if)#ip address 172.16.2.1 255.255.255.0
+R1(config-if)#no shut
