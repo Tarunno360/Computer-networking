@@ -1,0 +1,2278 @@
+E T H I C S A N D I T F O R I T U S E R S
+W O R K E R S
+Q U O T E
+This above all: to thine own self be true.
+—William Shakespeare, playwright
+V I G N E T T E
+New York City Payroll Project Riddled with Fraud
+The CityTime project was meant to replace a largely manual, paper-based payroll system for the city
+of New York (NYC). The goal was to provide a tool that would help city administrators manage a
+workforce of over 100,000 employees spread across 63 departments. It was also intended to simplify
+the employee time-reporting process, which was complicated by numerous union timekeeping rules,
+and to identify employees who tried to fraudulently inflate their paychecks. The project was initiated
+in 1998 when the city awarded the contract to a subsidiary of MCI, a telecommunications company
+that later ran into financial scandals and, ultimately, filed for bankruptcy.1
+In 2001, the CityTime contract was reassigned to Science International Applications Incorporated
+(SAIC), a defense company. In an unusual move, the handoff to SAIC occurred without the contract
+going through the normal competitive bidding process required for contracts of this size. Around the
+same time, Spherion Atlantic Enterprises was hired as a subcontractor to provide quality assurance on the CityTime project, with an initial contract of $3.4 million. The city’s contract with Spherion was
+eventually revised 11 times, with a resulting cost of $48 million.2
+Richard Valcich, the NYC payroll office executive director during the initial years of the project,
+accused SAIC of dragging its feet on the project and was skeptical of the company’s ability to deliver
+a quality product. However, Valcich retired in 2004 and was replaced by Joel Bondy, a staunch
+advocate of the project.3 In this role, Bondy was responsible for overseeing and re-awarding Spher-
+ion’s contract. It was later discovered that Bondy worked for Spherion for two years prior to joining
+the city.
+In another questionable move, the CityTime contract was switched from a fixed-price contract to
+a “time and materials” contract, and the project costs spiraled out of control—from $224 million in
+2006 to $628 million by 2009. This switch in the terms of the contract plus lack of project oversight
+made it even easier for those involved with the project to commit fraud.4
+At a city hearing in December 2010, Bondy revealed that Spherion employees were billing the
+city at a rate of $236.25 per hour and that a number of former city employees had become Spherion
+employees.5 Mr. Bondy resigned shortly after this meeting.6
+That same month, federal prosecutors charged several consultants for the CityTime project with
+a multimillion dollar fraud scheme, which allegedly started in 2005. The consultants were accused of
+manipulating the city into paying for contracts to businesses that the consultants controlled, and then
+redirecting part of the money to enrich themselves personally.7
+In May 2011, federal investigators arrested Gerald Denault, the senior project manager at SAIC,
+for allegedly receiving over $5 million in kickbacks and for committing wire fraud and money launder-
+ing. Denault had convinced his employer to hire TechnoDyne LLC as the main subcontractor for the
+Chapter 2
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+project. TechnoDyne eventually received $450 million out of the $600 million paid to SAIC and
+siphoned off millions to a bogus India-based consulting firm owned by Denault.8 The two owners of
+TechnoDyne are now fugitives and their whereabouts are unknown. Six other defendants are sched-
+uled to go to trial in 2013.9
+43
+In March 2012, SAIC agreed to pay $500 million to avoid prosecution for its role in the CityTime
+scandal; most of that money was to go back to the city of New York. By this time, it was estimated
+that NYC had paid out $652 million—with an outstanding bill of $41 million—owed on the project,
+which was originally estimated to cost $63 million and to be completed in 2003.10
+Questions to Consider
+1. What were some early warning signs that signaled things were not going well with the City-
+Time project?
+2. What steps should city managers and SAIC have taken at an early stage of the project to
+identify and prevent fraud?
+L E A R N I N G O B J E C T I V E S
+As you read this chapter, consider the following questions:
+1. 2. 3. 4. 5. What key characteristics distinguish a professional from other kinds of
+workers, and is an IT worker considered a professional?
+What factors are transforming the professional services industry?
+What relationships must an IT worker manage, and what key ethical
+issues can arise in each?
+How do codes of ethics, professional organizations, certification, and
+licensing affect the ethical behavior of IT professionals?
+What is meant by compliance, and how does it help promote the right
+behaviors and discourage undesirable ones?
+I T P R O F E S S I O N A L S
+A profession is a calling that requires specialized knowledge and often long and intensive
+academic preparation. Over the years, the United States government adopted labor laws
+and regulations that required a more precise definition of what is meant by a professional employee. The United States Code of federal regulations defines a“professional employee”
+as one who is engaged in the performance of work:
+“(i) requiring knowledge of an advanced type in a field of science or learning
+customarily acquired by a prolonged course of specialized intellectual instruction
+and study in an institution of higher learning or a hospital (as distinguished from
+knowledge acquired by a general academic education, or from an apprenticeship,
+or from training in the performance of routine mental, manual, mechanical, or
+physical activities);
+(ii) requiring the consistent exercise of discretion and judgment in its performance;
+(iii) which is predominantly intellectual and varied in character (as distinguished
+from routine mental, manual, mechanical, or physical work); and
+(iv) which is of such character that the output produced or the result accomplished
+by such work cannot be standardized in relation to a given period of time.”11
+In other words, professionals such as doctors, lawyers, and accountants require
+advanced training and experience; they must exercise discretion and judgment in the
+course of their work; and their work cannot be standardized. Many people would also
+expect professionals to contribute to society, to participate in a lifelong training program
+(both formal and informal), to keep abreast of developments in their field, and to assist
+other professionals in their development. In addition, many professional roles carry spe-
+cial rights and responsibilities. Doctors, for example, prescribe drugs, perform surgery,
+and request confidential patient information while maintaining doctor–patient
+confidentiality.
+Are IT Workers Professionals?
+Many business workers have duties, backgrounds, and training that qualify them to be
+classified as professionals, including marketing analysts, financial consultants, and IT
+specialists such as mobile application developers, software engineers, systems analysts,
+and network administrators. One could argue, however, that not every IT role requires
+“knowledge of an advanced type in a field of science or learning customarily acquired by
+a prolonged course of specialized intellectual instruction and study,” to quote again from
+the United States Code. From a legal perspective, IT workers are not recognized as
+professionals because they are not licensed by the state or federal government. This
+distinction is important, for example, in malpractice lawsuits, as many courts have ruled
+that IT workers are not liable for malpractice because they do not meet the legal definition
+of a professional.
+Professional Relationships That Must Be Managed
+IT workers typically become involved in many different relationships, including
+those with employers, clients, suppliers, other professionals, IT users, and society
+at large—as illustrated in Figure 2-1. In each relationship, an ethical IT worker
+acts honestly and appropriately. These various relationships are discussed in the
+following sections.
+Chapter 2
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+45
+Employers
+Society
+Clients
+IT
+worker
+IT users
+Suppliers
+Other
+professionals
+FIGURE 2-1 Professional relationships IT workers must manage
+Credit: Course Technology/Cengage Learning.
+Relationships Between IT Workers and Employers
+IT workers and employers have a critical, multifaceted relationship that requires ongoing
+effort by both parties to keep it strong. An IT worker and an employer typically agree on
+fundamental aspects of this relationship before the worker accepts an employment offer.
+These issues may include job title, general performance expectations, specific work
+responsibilities, drug-testing requirements, dress code, location of employment, salary,
+work hours, and company benefits. Many other aspects of this relationship may be
+addressed in a company’s policy and procedures manual or in the company’s code of
+conduct, if one exists. These issues may include protection of company secrets; vacation
+policy; time off for a funeral or an illness in the family; tuition reimbursement; and use
+of company resources, including computers and networks.
+Other aspects of this relationship develop over time as the need arises (for example,
+whether the employee can leave early one day if the time is made up another day). Some
+aspects are addressed by law—for example, an employee cannot be required to do
+anything illegal, such as falsify the results of a quality assurance test. Some aspects are
+specific to the role of the IT worker and are established based on the nature of the work
+or project—for example, the programming language to be used, the type and amount of
+documentation to be produced, and the extent of testing to be conducted. As the stewards of an organization’s IT resources, IT workers must set an example
+and enforce policies regarding the ethical use of IT. IT workers often have the skills and
+knowledge to abuse systems and data or to enable others to do so. Software piracy is an
+area in which IT workers may be tempted to violate laws and policies. Although end users
+often get the blame when it comes to using illegal copies of commercial software, software
+piracy in a corporate setting is sometimes directly traceable to IT staff members—either
+they allow it to happen or they actively engage in it, often to reduce IT-related spending.
+The Business Software Alliance (BSA) is a trade group that represents the world’s
+largest software and hardware manufacturers. Its mission is to stop the unauthorized
+copying of software produced by its members. BSA is funded both through dues based
+on member companies’ software revenues and through settlements from companies that
+commit piracy. BSA membership includes two dozen or so members such as Adobe,
+Apple, Intel, McAfee, Microsoft, Symantec, and The Math Works.
+More than 100 BSA lawyers and investigators prosecute thousands of cases of software
+piracy each year. BSA investigations are usually triggered by calls to the BSA hotline
+(1-888-NO-PIRACY), reports sent to the BSA Web site (www.nopiracy.org), and referrals
+from member companies. Many of these cases are reported by disgruntled employees or
+former employees. For 2011, the commercial value of software piracy in the United States
+was estimated to be nearly $10 billion with 31 percent of computer users participating in
+this illegal activity.12 When BSA finds cases of software piracy, it assesses heavy monetary
+penalties.
+Failure to cooperate with the BSA can be extremely expensive. The cost of criminal or
+civil penalties to a corporation and the people involved can easily be many times more
+expensive than the cost of“getting legal” by acquiring the correct number of software
+licenses. Software manufacturers can file a civil suit against software pirates with penalties
+of up to $150,000 per copyrighted work. Furthermore, the government can criminally
+prosecute violators and fine them up to $250,000, incarcerate them for up to five years,
+or both.
+In 2012, the Alexander Automotive Group paid $325,000 to settle claims that it was
+using unlicensed Microsoft software on its computers. As part of the settlement agreement
+with BSA, the firm deleted all unlicensed copies of software from its computers, purchased
+the licenses required to become compliant, and agreed to implement more effective soft-
+ware management procedures. BSA was alerted to this situation by a report sent to its
+Web site.13
+Trade secrecy is another area that can present challenges for IT workers and their
+employers. A trade secret is information, generally unknown to the public, that a company
+has taken strong measures to keep confidential. It represents something of economic value
+that has required effort or cost to develop and that has some degree of uniqueness or
+novelty. Trade secrets can include the design of new software code, hardware designs,
+business plans, the design of a user interface to a computer program, and manufacturing
+processes. Examples include the Colonel’s secret recipe of 11 herbs and spices used to
+make the original KFC chicken, the formula for Coke, and Intel’s manufacturing process
+for the i7 quad core processing chip. Employers worry that employees may reveal these
+secrets to competitors, especially if they leave the company. As a result, companies often
+require employees to sign confidentiality agreements and promise not to reveal the
+company’s trade secrets.
+Chapter 2
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+47
+Zynga is a provider of online social games such as ChefVille, CityVille, FarmVille,
+FrontierVille, and Zynga Poker that boast over 300 million active monthly users.14 After
+just over a year with Zynga, the firm’s general manager of CityVille left to become a vice
+president at Kixeye, a competitor. Zynga claimed that the employee stole files with data
+critical to the business—including financial projections, marketing plans, and game
+designs.15 Zynga filed a request for a temporary restraining order barring its former
+employee from sharing or copying the information or from engaging in any actions using
+the information to develop online games employing these trade secrets.
+Another issue that can create friction between employers and IT workers is whistle-
+blowing. Whistle-blowing is an effort by an employee to attract attention to a negligent,
+illegal, unethical, abusive, or dangerous act by a company that threatens the public inter-
+est. Whistle-blowers often have special information based on their expertise or position
+within the offending organization. For example, an employee of a chip manufacturing
+company may know that the chemical process used to make the chips is dangerous to
+employees and the general public. A conscientious employee would call the problem to
+management’s attention and try to correct it by working with appropriate resources within
+the company. But what if the employee’s attempt to correct the problem through internal
+channels was thwarted or ignored? The employee might then consider becoming a whistle-
+blower and reporting the problem to people outside the company, including state or
+federal agencies that have jurisdiction. Obviously, such actions could have negative
+consequences on the employee’s job, perhaps resulting in retaliation and firing.
+The H-1B visa is a work visa that allows foreigners to come to the United States and work
+full-time in specialty occupations that require at least a four-year bachelor’s degree in a spe-
+cific field. A U.S. consultant for India-based outsourcing firm Infosys filed a whistle-blower
+lawsuit against the firm for abusing H-1B program rules. The lawsuit alleged that at a man-
+agement meeting in Bangalore, Infosys officials discussed the need to“creatively” circumvent
+the H-1B visa restrictions. The lawsuit further alleged that Infosys brought workers to the
+United States on B-1 visas (which are intended for workers coming to the United States for
+short-term work assignments only), but that these workers were assigned full-time jobs. It also
+claimed that Infosys was not paying the B-1 workers the prevailing wage and was not
+withholding federal and state income taxes.16 The whistle-blower filed a separate lawsuit in
+which he claimed that Infosys retaliated against him for the filing of the visa-related lawsuit
+by lowering his bonuses, harassing him, and giving him no meaningful work to do.17
+Relationships Between IT Workers and Clients
+IT workers provide services to clients; sometimes those“clients” are coworkers who are
+part of the same organization as the IT worker. In other cases, the client is part of a dif-
+ferent organization. In relationships between IT workers and clients, each party agrees to
+provide something of value to the other. Generally speaking, the IT worker provides hard-
+ware, software, or services at a certain cost and within a given time frame. For example,
+an IT worker might agree to implement a new accounts payable software package that
+meets a client’s requirements. The client provides compensation, access to key contacts,
+and perhaps a work space. This relationship is usually documented in contractual terms—
+who does what, when the work begins, how long it will take, how much the client pays,
+and so on. Although there is often a vast disparity in technical expertise between I 48
+Typically, the client makes decisions about a project on the basis of information,
+alternatives, and recommendations provided by the IT worker. The client trusts the IT
+worker to use his or her expertise and to act in the client’s best interests. The IT worker
+must trust that the client will provide relevant information, listen to and understand what
+the IT worker says, ask questions to understand the impact of key decisions, and use the
+information to make wise choices among various alternatives. Thus, the responsibility for
+decision making is shared between client and IT worker.
+One potential ethical problem that can interfere with the relationship between IT
+workers and their clients involves IT consultants or auditors who recommend their own
+products and services or those of an affiliated vendor to remedy a problem they have
+detected. Such a situation has the potential to undermine the objectivity of an IT worker
+due to a conflict of interest—a conflict between the IT worker’s (or the IT firm’s) self-
+interest and the interests of the client. For example, an IT consulting firm might be hired
+to assess a firm’s IT strategic plan. After a few weeks of analysis, the consulting firm might
+provide a poor rating for the existing strategy and insist that its proprietary products and
+services are required to develop a new strategic plan. Such findings would raise questions
+about the vendor’s objectivity and whether its recommendations can be trusted.
+Problems can also arise during a project if IT workers find themselves unable to pro-
+vide full and accurate reporting of the project’s status due to a lack of information, tools,
+or experience needed to perform an accurate assessment. The project manager may want
+to keep resources flowing into the project and hope that problems can be corrected before
+anyone notices. The project manager may also be reluctant to share status information
+because of contractual penalties for failure to meet the schedule or to develop certain sys-
+tem functions. In such a situation, the client may not be informed about a problem until it
+has become a crisis. After the truth comes out, finger-pointing and heated discussions
+about cost overruns, missed schedules, and technical incompetence can lead to charges
+of fraud, misrepresentation, and breach of contract.
+Fraud is the crime of obtaining goods, services, or property through deception or
+trickery. Fraudulent misrepresentation occurs when a person consciously decides to
+induce another person to rely and act on a misrepresentation. To prove fraud in a court
+of law, prosecutors must demonstrate the following elements:
+• The wrongdoer made a false representation of material fact.
+• The wrongdoer intended to deceive the innocent party.
+• The innocent party justifiably relied on the misrepresentation.
+• The innocent party was injured.
+As an example of alleged fraud, consider the case of Paul Ceglia, who in 2010 sued
+Facebook claiming to own a majority of the company. Ceglia claimed that he signed a
+contract with Mark Zuckerberg in 2003 to design and develop the Web site that eventually
+became Facebook. He alleged that he paid Zuckerberg $1,000 for the programming work
+and also invested an additional $1,000 in Zuckerberg’s Facebook project in exchange for a
+50 percent interest in Facebook.18 Facebook lawyers have asserted that the lawsuit is an
+outright fraud and have depositions alleging that“Ceglia manufactured evidence, including
+purported emails with Zuckerberg, to support his false claim to an interest in Facebook”
+and that“Ceglia destroyed evidence that was inconsistent with his false claim.” Facebook’s
+attorneys pointed out that Zuckerberg did not even conceive of Facebook until eight
+Chapter 2
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+months after Zuckerberg did the contract work (which, they say, was completely unrelated
+to Facebook) for Ceglia. They further alleged that Ceglia’s emails to Zuckerberg were
+manufactured to support his claims. Eventually, Ceglia was arrested on federal mail and
+wire fraud charges.19
+Misrepresentation is the misstatement or incomplete statement of a material fact. If
+the misrepresentation causes the other party to enter into a contract, that party may have
+the legal right to cancel the contract or seek reimbursement for damages.
+Siri, the voice-activated software that comes with the Apple iPhone, has delighted
+many iPhone users; however, not everyone has had a positive experience. Shortly after
+one user in New York purchased an iPhone 4S, he realized that Siri was not performing as
+expected. When he asked Siri for directions, it did not understand the question or after a
+long delay gave incorrect directions. As a result, the user filed a lawsuit against Apple
+claiming that advertising for the Siri amounted to“intentional misrepresentation” and that
+Apple’s claims about the Siri software were“misleading and deceptive.” Attorneys for this
+user are considering turning the case into a class action against Apple.20
+Breach of contract occurs when one party fails to meet the terms of a contract. Fur-
+ther, a material breach of contract occurs when a party fails to perform certain express or
+implied obligations, which impairs or destroys the essence of the contract. Because there
+is no clear line between a minor breach and a material breach, determination is made on a
+case-by-case basis.“When there has been a material breach of contract, the nonbreaching
+party can either: (1) rescind the contract, seek restitution of any compensation paid under
+the contract to the breaching party, and be discharged from any further performance
+under the contract; or (2) treat the contract as being in effect and sue the breaching party
+to recover damages.”21
+In an out-of-court settlement of a breach of contract lawsuit brought by the General
+Services Administration (GSA), Oracle Corporation agreed to pay the federal agency
+$200 million. Oracle entered into a contract with the GSA for the sale of software and
+technical support to various departments of the federal government. The contract required
+Oracle to provide the government with its pricing policies. The lawsuit arose when the
+GSA claimed that Oracle“knowingly failed to meet its contractual obligations to provide
+GSA with current, accurate, and complete information about its commercial sales prac-
+tices, including discounts offered to other customers, and that Oracle knowingly made
+false statements to GSA about its sales practices and discounts.” The GSA further claimed
+that Oracle failed to disclose that other customers received greater discounts than the
+GSA and that, based on its contract with Oracle, those discounts should have been passed
+on to the GSA.22
+When IT projects go wrong because of cost overruns, schedule slippage, lack of
+system functionality, and so on, aggrieved parties might charge fraud, fraudulent
+misrepresentation, and/or breach of contract. Trials can take years to settle, generate
+substantial legal fees, and create bad publicity for both parties. As a result, the vast
+majority of such disputes are settled out of court, and the proceedings and outcomes
+are concealed from the public. In addition, IT vendors have become more careful about
+protecting themselves from major legal losses by requiring that contracts place a limit
+on potential damages.
+Most IT projects are joint efforts in which vendors and customers work together to
+develop a system. Assigning fault when such projects go wrong can be difficult; one side might be partially at fault, while the other side is mostly at fault. Clients and vendors often
+disagree about who is to blame in such circumstances. Consider the following frequent
+causes of problems in IT projects:
+• The customer changes the scope of the project or the system requirements.
+• Poor communication between customer and vendor leads to performance
+that does not meet expectations.
+• The vendor delivers a system that meets customer requirements, but a
+competitor comes out with a system that offers more advanced and useful
+features.
+• The customer fails to reveal information about legacy systems or databases
+that make the new system extremely difficult to implement.
+Relationships Between IT Workers and Suppliers
+IT workers deal with many different hardware, software, and service providers. Most IT
+workers understand that building a good working relationship with suppliers encourages
+the flow of useful communication as well as the sharing of ideas. Such information can
+lead to innovative and cost-effective ways of using the supplier’s products and services that
+the IT worker may never have considered.
+IT workers can develop good relationships with suppliers by dealing fairly with them
+and not making unreasonable demands. Threatening to replace a supplier who can’t
+deliver needed equipment tomorrow, when the normal industry lead time is one week, is
+aggressive behavior that does not help build a good working relationship.
+Suppliers strive to maintain positive relationships with their customers in order to
+make and increase sales. To achieve this goal, they may sometimes engage in unethical
+actions—for example, offering an IT worker a gift that is actually intended as a bribe.
+Clearly, IT workers should not accept a bribe from a vendor, and they must be careful
+when considering what constitutes a bribe. For example, accepting invitations to expen-
+sive dinners or payment of entry fees for a golf tournament may seem innocent to the
+recipient, but it may be perceived as bribery by an auditor.
+Bribery is the act of providing money, property, or favors to someone in business or
+government in order to obtain a business advantage. An obvious example is a software
+supplier sales representative who offers money to another company’s employee to get its
+business. This type of bribe is often referred to as a kickback or a payoff. The person who
+offers a bribe commits a crime when the offer is made, and the recipient is guilty of a
+crime if he or she accepts the bribe. Various states have enacted bribery laws, which have
+sometimes been used to invalidate contracts involving bribes but have seldom been used
+to make criminal convictions.
+A former midlevel supply chain manager at Apple pled guilty in 2011 to taking over
+$1 million in payments from certain iPhone, iPad, and iPod suppliers in China, Singa-
+pore, South Korea, and Taiwan. The kickbacks took place over several years and were in
+exchange for the employer providing confidential information about Apple’s production
+plans, enabling the suppliers to negotiate more favorable deals with Apple. He now
+faces 20 years in prison on charges of money laundering, receiving kickbacks, and
+wire fraud.23
+Chapter 2
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+The Foreign Corrupt Practices Act (FCPA) makes it a crime to bribe a foreign official,
+a foreign political party official, or a candidate for foreign political office. The act applies
+to any U.S. citizen or company and to any company with shares listed on any U.S. stock
+exchange. However, a bribe is not a crime if the payment was lawful under the laws of
+the foreign country in which it was paid. Penalties for violating the FCPA are severe—
+corporations face a fine of up to $2 million per violation, and individual violators may
+be fined up to $100,000 and imprisoned for up to five years.
+The FCPA also requires corporations whose securities are listed in the United States
+to meet U.S. accounting standards by having an adequate system of internal controls,
+including maintaining books and records that accurately and fairly reflect their transac-
+tions. The goal of these standards is to prevent companies from using slush funds or
+other means to disguise payments to foreign officials. A firm’s business practices and its
+accounting information systems must be frequently audited by both internal and outside
+auditors to ensure that they meet these standards.
+The FCPA permits facilitating payments that are made for“routine government
+actions,” such as obtaining permits or licenses; processing visas; providing police protec-
+tion; providing phone services, power, or water supplies; or facilitating actions of a similar
+nature. Thus, it is permissible under the FCPA to pay an official to perform some official
+function faster (for example, to speed customs clearance) but not to make a different
+substantive decision (for example, to award business to one’s firm).24
+There is growing global recognition of the need to prevent corruption. The United
+Nations Convention Against Corruption is a legally binding global treaty designed to fight
+bribery and corruption. During its November 2010 meeting, Finance Ministers and Central
+Bank Ministers of members of the Group of 20 (G20), which includes Argentina, China,
+India, Japan, Russia, the United Kingdom, the United States, and 13 other countries,
+pledged to implement this treaty effectively. In particular, the countries pledged to put in
+place mechanisms for the recovery of property from corrupt officials through international
+cooperation in tracing, freezing, and confiscating assets. Members also pledged to adopt
+and enforce laws against international bribery and put in place rules to protect whistle-
+blowers.25
+In some countries, gifts are an essential part of doing business. In fact, in some coun-
+tries, it would be considered rude not to bring a present to an initial business meeting.
+In the United States, a gift might take the form of free tickets to a sporting event from
+a personnel agency that wants to get on your company’s list of preferred suppliers. But,
+at what point does a gift become a bribe, and who decides?
+The key distinguishing factor is that no gift should be hidden. A gift may be consid-
+ered a bribe if it is not declared. As a result, most companies require that all gifts be
+declared and that everything but token gifts be declined. Some companies have a policy
+of pooling the gifts received by their employees, auctioning them off, and giving the
+proceeds to charity.
+When it comes to distinguishing between bribes and gifts, the perceptions of the donor
+and the recipient can differ. The recipient may believe he received a gift that in no way
+obligates him to the donor, particularly if the gift was not cash. The donor’s intentions,
+however, might be very different. Table 2-1 shows some distinctions between bribes
+and gifts. TABLE 2-1 Distinguishing between bribes and gifts
+Source Line: Course Technology/Cengage Learning.
+Bribes Gifts
+Are made in secret, as they are neither legally nor
+morally acceptable
+Are made openly and publicly, as a gesture of
+friendship or goodwill
+Are often made indirectly through a third party Are made directly from donor to recipient
+Encourage an obligation for the recipient to act
+favorably toward the donor
+Come with no expectation of a future favor for
+the donor
+Relationships Between IT Workers and Other Professionals
+Professionals often feel a degree of loyalty to the other members of their profession. As a
+result, they are often quick to help each other obtain new positions but slow to criticize
+each other in public. Professionals also have an interest in their profession as a whole,
+because how it is perceived affects how individual members are viewed and treated. (For
+example, politicians are not generally thought to be very trustworthy, but teachers are.)
+Hence, professionals owe each other an adherence to the profession’s code of conduct.
+Experienced professionals can also serve as mentors and help develop new members of
+the profession.
+A number of ethical problems can arise among members of the IT profession. One of
+the most common is résumé inflation, which involves lying on a résumé by, for example,
+claiming competence in an IT skill that is in high demand. Even though an IT worker
+might benefit in the short term from exaggerating his or her qualifications, such an action
+can hurt the profession and the individual in the long run. Many employers consider lying
+on a résumé as grounds for immediate dismissal.
+Yahoo! hired Scott Thompson, the president of eBay’s PayPal electronic payments
+unit, as its new CEO in January 2012.26 Just four months later, Thompson left the com-
+pany, due, at least in part, to revelations that his résumé falsely claimed that he had
+earned a bachelor’s degree in computer science.27
+Some studies have shown that around 30 percent of all U.S. job applicants exaggerate
+their accomplishments, while roughly 10 percent“seriously misrepresent” their
+backgrounds.28 Résumé inflation is an even bigger problem in Asia. According to a recent
+survey conducted by the University of Hong Kong and a Hong Kong–based company
+specializing in preemployment screening, over 62 percent of respondents confessed to
+exaggerating their years of experience, previous positions held, and job responsibilities;
+33 percent confessed to having exaggerated even more.29 Table 2-2 lists the areas of a
+résumé that are most prone to exaggeration.
+Chapter 2
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+Area of exaggeration How to uncover the truth
+Dates of employment Thorough reference check
+Job title Thorough reference check
+Criminal record Criminal background check
+Inflated salary Thorough reference check
+Education Verification of education claims with universities and other
+training organizations
+Professional licenses Verification of license with accrediting agency
+Working for fictitious company Thorough background check
+TABLE 2-2 Most frequent areas of résumé falsehood or exaggeration
+Source Line: Lisa Vaas,“Most Common Resume Lies,” The Ladders, July 17, 2009, www.theladders.com/
+career-advice/most-common-resume-lies.
+53
+Another ethical issue that can arise in relationships between IT workers and other
+professionals is the inappropriate sharing of corporate information. Because of their roles,
+IT workers may have access to corporate databases of private and confidential information
+about employees, customers, suppliers, new product plans, promotions, budgets, and so
+on. It might be sold to other organizations or shared informally during work conversations
+with others who have no need to know.
+Relationships Between IT Workers and IT Users
+The term IT user refers to a person who uses a hardware or software product; the term
+distinguishes end users from the IT workers who develop, install, service, and support the
+product. IT users need the product to deliver organizational benefits or to increase their
+productivity.
+IT workers have a duty to understand a user’s needs and capabilities and to deliver
+products and services that best meet those needs—subject, of course, to budget and time
+constraints. IT workers also have a key responsibility to establish an environment that
+supports ethical behavior by users. Such an environment discourages software piracy,
+minimizes the inappropriate use of corporate computing resources, and avoids the
+inappropriate sharing of information.
+Relationships Between IT Workers and Society
+Regulatory laws establish safety standards for products and services to protect the public.
+However, these laws are less than perfect, and they cannot safeguard against all negative
+side effects of a product or process. Often, professionals can clearly see the effect their
+work will have and can take action to eliminate potential public risks. Thus, society
+expects members of a profession to provide significant benefits and to not cause harm
+through their actions. One approach to meeting this e Clearly, the actions of an IT worker can affect society. For example, a systems analyst
+may design a computer-based control system to monitor a chemical manufacturing pro-
+cess. A failure or an error in the system may put workers or residents near the plant at
+risk. As a result, IT workers have a relationship with members of society who may be
+affected by their actions. There is currently no single, formal organization of IT workers
+that takes responsibility for establishing and maintaining standards that protect the public.
+However, as discussed in the following sections, there are a number of professional orga-
+nizations that provide useful professional codes of ethics to guide actions that support the
+ethical behavior of IT workers.
+Professional Codes of Ethics
+A professional code of ethics states the principles and core values that are essential to the
+work of a particular occupational group. Practitioners in many professions subscribe to a
+code of ethics that governs their behavior. For example, doctors adhere to varying versions
+of the 2,000-year-old Hippocratic oath, which medical schools offer as an affirmation to
+their graduating classes. Most codes of ethics created by professional organizations have
+two main parts: The first outlines what the organization aspires to become, and the second
+typically lists rules and principles by which members of the organization are expected to
+abide. Many codes also include a commitment to continuing education for those who
+practice the profession.
+Laws do not provide a complete guide to ethical behavior. Just because an activity is
+not defined as illegal does not mean it is ethical. Nor can a professional code of ethics be
+expected to provide an answer to every ethical dilemma—no code can be a definitive
+collection of behavioral standards. However, following a professional code of ethics can
+produce many benefits for the individual, the profession, and society as a whole:
+• Ethical decision making—Adherence to a professional code of ethics means
+that practitioners use a common set of core values and beliefs as a guideline
+for ethical decision making.
+• High standards of practice and ethical behavior—Adherence to a code of
+ethics reminds professionals of the responsibilities and duties that they may
+be tempted to compromise to meet the pressures of day-to-day business.
+The code also defines acceptable and unacceptable behaviors to guide
+professionals in their interactions with others. Strong codes of ethics have
+procedures for censuring professionals for serious violations, with penalties
+that can include the loss of the right to practice. Such codes are the excep-
+tion, however, and few exist in the IT arena.
+• Trust and respect from the general public—Public trust is built on the
+expectation that a professional will behave ethically. People must often
+depend on the integrity and good judgment of a professional to tell the truth,
+abstain from giving self-serving advice, and offer warnings about the potential
+negative side effects of their actions. Thus, adherence to a code of ethics
+enhances trust and respect for professionals and their profession.
+• Evaluation benchmark—A code of ethics provides an evaluation benchmark
+that a professional can use as a means of self-assessment. Peers of the pro-
+fessional can also use the code for recognition or censure.
+Chapter 2
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+Professional Organizations
+No one IT professional organization has emerged as preeminent, so there is no universal
+code of ethics for IT workers. However, the existence of such organizations is useful in a
+field that is rapidly growing and changing. In order to stay on top of the many new devel-
+opments in their field, IT workers need to network with others, seek out new ideas, and
+continually build on their personal skills and expertise. Whether you are a freelance pro-
+grammer or the CIO of a Fortune 500 company, membership in an organization of IT
+workers enables you to associate with others of similar work experience, develop working
+relationships, and exchange ideas. These organizations disseminate information through
+email, periodicals, Web sites, meetings, and conferences. Furthermore, in recognition of
+the need for professional standards of competency and conduct, many of these organiza-
+tions have developed codes of ethics. Four of the most prominent IT-related professional
+organizations are highlighted in the following sections.
+Association for Computing Machinery (ACM)
+The Association for Computing Machinery (ACM) is a computing society founded in 1947
+with over 97,000 student and professional members in more than 100 countries. It is
+international in scope—with an ACM Europe, ACM India, and ACM China organization.
+ACM currently publishes over 50 journals and magazines and 30 newsletters—including
+Communications of the ACM (ACM’s primary publication), ACM Tech News (coverage of
+timely topics for IT professionals), XRDS (for both graduate and undergraduate students
+considering computing careers), RISKS Forum (a moderated dialogue on risks to the pub-
+lic from computers and related systems), and eLearn (an online magazine about online
+education and training). The organization also offers a substantial digital library of biblio-
+graphic information, citations, articles, and journals. The ACM sponsors 37 special-interest
+groups (SIGs) representing major areas of computing. Each group provides publications,
+workshops, and conferences for information exchange.30
+Institute of Electrical and Electronics Engineers Computer Society (IEEE-CS)
+The Institute of Electrical and Electronics Engineers (IEEE) covers the broad fields of
+electrical, electronic, and information technologies and sciences. The IEEE-CS is one of
+the oldest and largest IT professional associations, with about 85,000 members. Founded
+in 1946, the IEEE-CS is the largest of the 38 societies of the IEEE. The IEEE-CS helps
+meet the information and career development needs of computing researchers and practi-
+tioners with technical journals, magazines, books, conferences, conference publications,
+and online courses. It also offers a Certified Software Development Professional (CSDP)
+program for experienced professionals and a Certified Software Development Associate
+(CSDA) credential for recent college graduates. The society sponsors many conferences,
+applications-related and research-oriented journals, local and student chapters, technical
+committees, and standards working groups.31
+In 1993, the ACM and IEEE-CS formed a Joint Steering Committee for the Establish-
+ment of Software Engineering as a Profession. The initial recommendations of the
+committee were to define ethical standards, to define the required body of knowledge and
+recommended practices in software engineering, and to define appropriate curricula to
+acquire knowledge. The“Software Engineering Code of Ethics and Professional Practice” documents the ethical and professional responsibilities and obligations of software
+engineers. After a thorough review process, version 5.2 of the Software Engineering Code
+of Ethics was adopted by both the ACM and IEEE-CS in 1999.32
+Association of Information Technology Professionals (AITP)
+The Association of Information Technology Professionals (AITP) started in Chicago in
+1951, when a group of machine accountants got together and decided that the future was
+bright for the IBM punched-card tabulating machines they were operating—a precursor of
+the modern electronic computer. They were members of a local group called the Machine
+Accountants Association (MAA), which first evolved into the Data Processing Management
+Association in 1962 and finally the AITP in 1996.33
+The AITP provides IT-related seminars and conferences, information on IT issues, and
+forums for networking with other IT workers. Its mission is to provide superior leadership
+and education in information technology, and one of its goals is to help members make
+themselves more marketable within their industry. The AITP also has a code of ethics and
+standards of conduct. The standards of conduct are considered to be rules that no true IT
+professional should violate.
+SysAdmin, Audit, Network, Security (SANS) Institute
+The SysAdmin, Audit, Network, Security (SANS) Institute provides information security
+training and certification for a wide range of individuals, such as auditors, network admin-
+istrators, and security managers. Each year, its programs train some 12,000 people, and a
+total of more than 165,000 security professionals around the world have taken one or
+more of its courses. SANS publishes a semiweekly news digest (NewsBites), a weekly
+security vulnerability digest (@Risk), and flash security alerts.34
+At no cost, SANS makes available a collection of some 1,200 research documents
+about various topics of information security. SANS also operates Internet Storm Center—a
+program that monitors malicious Internet activity and provides a free early warning ser-
+vice to Internet users—and works with Internet service providers to thwart malicious
+attackers.
+Table 2-3 provides the URL for the codes of ethics for the above IT professional
+organizations.
+TABLE 2-3 Code of ethics for popular IT professional organizations
+Source Line: Course Technology/Cengage Learning.
+Organization URL for code of ethics
+Association for Computing Machinery www.acm.org/about/code-of-ethics
+Institute of Electrical and Electronics
+Engineers Computer Society (IEEE-CS)
+http://seeri.etsu.edu/Codes/TheSECode.htm
+Association of Information Technology
+Professionals (AITP)
+www.aitp.org/?page=Ethics
+SysAdmin, Audit, Network, Security (SANS)
+Institute
+www.sans.org/security-resources/ethics.php
+Chapter 2
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+Certification
+Certification indicates that a professional possesses a particular set of skills, knowledge, or
+abilities, in the opinion of the certifying organization. Unlike licensing, which applies only
+to people and is required by law, certification can also apply to products (e.g., the Wi-Fi
+CERTIFIED logo assures that the product has met rigorous interoperability testing to
+ensure that it will work with other Wi-Fi-certified products) and is generally voluntary.
+IT-related certifications may or may not include a requirement to adhere to a code of
+ethics, whereas such a requirement is standard with licensing.
+Numerous companies and professional organizations offer certifications, and opinions
+are divided on their value. Many employers view them as a benchmark that indicates
+mastery of a defined set of basic knowledge. On the other hand, because certification is
+no substitute for experience and doesn’t guarantee that a person will perform well on the
+job, some hiring managers are rather cynical about the value of certifications. Most IT
+employees are motivated to learn new skills, and certification provides a structured way of
+doing so. For such people, completing a certification provides clear recognition and corre-
+lates with a plan to help them continue to grow and advance in their careers. Others view
+certification as just another means for product vendors to generate additional revenue
+with little merit attached.
+Deciding on the best IT certification—and even whether to seek a certification—
+depends on the individual’s career aspirations, existing skill level, and accessibility to
+training. Is certification relevant to your current job or the one to which you aspire? Does
+the company offering the certification have a good reputation? What is the current and
+potential future demand for skills in this area of certification?
+Vendor Certifications
+Many IT vendors—such as Cisco, IBM, Microsoft, SAP, and Oracle—offer certification
+programs for those who use their products. Workers who successfully complete a program
+can represent themselves as certified users of a manufacturer’s product. Depending on the
+job market and the demand for skilled workers, some certifications might substantially
+improve an IT worker’s salary and career prospects. Certifications that are tied to a ven-
+dor’s product are relevant for job roles with very specific requirements or certain aspects
+of broader roles. Sometimes, however, vendor certifications are too narrowly focused on
+the technical details of the vendor’s technology and do not address more general concepts.
+To become certified, one must pass a written exam. Because of legal concerns about
+whether other types of exams can be graded objectively, most exams are presented in a
+multiple-choice format. A few certifications, such as the Cisco Certified Internetwork
+Expert (CCIE) certification, also require a hands-on lab exam that demonstrates skills
+and knowledge. It can take years to obtain the necessary experience required for some
+certifications. Courses and training material are available to help speed up the preparation
+process, but such support can be expensive. Depending on the certification, study materi-
+als can cost $1, Industry Association Certifications
+There are many available industry certifications in a variety of IT-related subject areas.
+Their value varies greatly depending on where people are in their career path, what other
+certifications they possess, and the nature of the IT job market. Table 2-4 lists several of
+the certifications most in demand by employers.
+TABLE 2-4 Certifications in high demand
+Source Line: Course Technology/Cengage Learning.
+Certification Subject matter
+Microsoft Certified Technology Specialist Designing and optimizing solutions based
+on Microsoft products and technologies
+Cisco Certified Internetwork Expert Managing and troubleshooting large
+networks
+Cisco Certified Network Professional
+Security
+Configuring and designing firewalls and the
+security settings on routers and switches
+CompTIA A+ Performing computer and network mainte-
+nance, troubleshooting, and installation—
+including addressing security issues
+Project Management Institute’s Project
+Management Professional (PMP)
+Leading and directing projects
+Certification requirements generally oblige an individual to have the prerequisite edu-
+cation and experience, and to sit for and pass an exam. In order to remain certified, the
+individual must typically pay an annual certification fee, earn continuing education cred-
+its, and—in some cases—pass a periodic renewal test.
+Certifications from industry associations generally require a higher level of experience
+and a broader perspective than vendor certifications; however, industry associations often
+lag in developing tests that cover new technologies. The trend in IT certification is to move
+from purely technical content to a broader mix of technical, business, and behavioral
+competencies, which are required in today’s demanding IT roles. This trend is evident in
+industry association certifications that address broader roles, such as project management
+and network security.
+Government Licensing
+In the United States, a government license is government-issued permission to engage in
+an activity or to operate a business. It is generally administered at the state level and often
+requires that the recipient pass a test of some kind. Some professionals must be licensed,
+including certified public accountants (CPAs), lawyers, doctors, various types of medical
+and daycare providers, and some engineers.
+States have enacted legislation to establish licensing requirements and protect public
+safety in a variety of fields. For example, Texas passed the Engineering Registration Act
+after a tragic school explosion at New London, Texas, in 1937. Under the act and
+Chapter 2
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+subsequent revisions, only duly licensed people may legally perform engineering services
+for the public, and public works must be designed and constructed under the direct
+supervision of a licensed professional engineer. People cannot call themselves engineers or
+professional engineers unless they are licensed, and violators are subject to legal penalties.
+Most states have similar laws.
+The Case for Licensing IT Workers
+The days of simple, stand-alone information systems are over. Modern systems are highly
+complex, interconnected, and critically dependent on one another. Highly integrated
+enterprise resource planning (ERP) systems help multibillion-dollar companies control
+all of their business functions, including forecasting, production planning, purchasing,
+inventory control, manufacturing, and distribution. Complex computers and information
+systems manage and control the nuclear reactors of power plants that generate electricity.
+Medical information systems monitor the vital statistics of hospital patients on critical
+life support. Every year, local, state, and federal government information systems are
+entrusted with generating and distributing millions of checks worth billions of dollars to
+the public.
+As a result of the increasing importance of IT in our everyday lives, the development
+of reliable, effective information systems has become an area of mounting public concern.
+This concern has led to a debate about whether the licensing of IT workers would improve
+information systems. Proponents argue that licensing would strongly encourage IT workers
+to follow the highest standards of the profession and practice a code of ethics. Licensing
+would also allow for violators to be punished. Without licensing, there are no clear, well-
+defined requirements for heightened care and no concept of professional malpractice.
+Issues Associated with Government Licensing of IT Workers
+Australia, Great Britain, and the Canadian provinces of Ontario and British Columbia have
+adopted licensing for software engineers. In the United States, the National Council of
+Examiners for Engineering and Surveying (NCEES) has developed a professional exam for
+electrical engineers and computer engineers. However, there are many reasons why there
+are few international or national licensing programs for IT workers in the United States:
+• There is no universally accepted core body of knowledge. The core body of
+knowledge for any profession outlines agreed-upon sets of skills and abilities
+that all licensed professionals must possess. At present, however, there are no
+universally accepted standards for licensing programmers, software engi-
+neers, and other IT workers. Instead, various professional societies, state
+agencies, and federal governments have developed their own standards.
+• It is unclear who should manage the content and administration of licens-
+ing exams. How would licensing exams be constructed, and who would be
+responsible for designing and administering them? Would someone who
+passes a license exam in one state or country be accepted in another state or
+country? In a field as rapidly changing as IT, workers must commit to ongo-
+ing, continuous education. If an IT worker’s license were to expire every few
+years (like a driver’s license), how often would practitioners be required to
+prove competence in new practices in order to renew their license? Such questions would normally be answered by the state agency that licenses
+other professionals.
+• There is no administrative body to accredit professional education pro-
+grams. Unlike the American Medical Association for medical schools or the
+American Bar Association for law schools, no single body accredits profes-
+sional education programs for IT. Furthermore, there is no well-defined,
+step-by-step process to train IT workers, even for specific jobs such as
+programming. There is not even broad agreement on what skills a good
+programmer must possess; it is highly situational, depending on the
+computing environment.
+• There is no administrative body to assess and ensure competence of indi-
+vidual workers. Lawyers, doctors, and other licensed professionals are held
+accountable to high ethical standards and can lose their license for failing to
+meet those standards or for demonstrating incompetence. The AITP stan-
+dards of conduct state that professionals should“take appropriate action in
+regard to any illegal or unethical practices that come to [their] attention.
+However, [they should] bring charges against any person only when [they]
+have reasonable basis for believing in the truth of the allegations and without
+any regard to personal interest.” The AITP code addresses the censure issue
+much more forcefully than other IT codes of ethics, although it has seldom,
+if ever, been used to censure practicing IT workers.
+IT Professional Malpractice
+Negligence has been defined as not doing something that a reasonable person would do, or
+doing something that a reasonable person would not do. Duty of care refers to the obliga-
+tion to protect people against any unreasonable harm or risk. For example, people have a
+duty to keep their pets from attacking others and to operate their cars safely. Similarly,
+businesses must keep dangerous pollutants out of the air and water, make safe products,
+and maintain safe operating conditions for employees.
+The courts decide whether parties owe a duty of care by applying a reasonable per-
+son standard to evaluate how an objective, careful, and conscientious person would have
+acted in the same circumstances. Likewise, defendants who have particular expertise or
+competence are measured against a reasonable professional standard. For example, in
+a medical malpractice suit based on improper treatment of a broken bone, the standard
+of measure would be higher if the defendant were an orthopedic surgeon rather than a
+general practitioner. In the IT arena, consider a hypothetical negligence case in which
+an employee inadvertently destroyed millions of customer records in an Oracle database.
+The standard of measure would be higher if the defendant were a licensed, Oracle-
+certified database administrator (DBA) with 10 years of experience rather than an
+unlicensed systems analyst with no DBA experience or specific knowledge of the
+Oracle software.
+If a court finds that a defendant actually owed a duty of care, it must then determine
+whether the duty was breached. A breach of the duty of care is the failure to act as a rea-
+sonable person would act. A breach of duty might consist of an action, such as throwing a
+lit cigarette into a fireworks factory and causing an explosion, or a failure to act when
+Chapter 2
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+there is a duty to do so—for example, a police officer not protecting a citizen from an
+attacker.
+Professionals who breach the duty of care are liable for injuries that their negligence
+causes. This liability is commonly referred to as professional malpractice. For example,
+a CPA who fails to use reasonable care, knowledge, skill, and judgment when auditing a
+client’s books is liable for accounting malpractice. Professionals who breach this duty
+are liable to their patients or clients, and possibly to some third parties.
+Courts have consistently rejected attempts to sue individual parties for computer-
+related malpractice. Professional negligence can only occur when people fail to perform
+within the standards of their profession, and software engineering is not a uniformly
+licensed profession in the United States. Because there are no uniform standards against
+which to compare a software engineer’s professional behavior, he or she cannot be subject
+to malpractice lawsuits.
+I T U S E R S
+61
+Chapter 1 outlined the general topic of how corporations are addressing the increasing
+risks of unethical behavior. This section focuses on encouraging employees’ ethical use
+of IT, which is an area of growing concern as more companies provide employees with
+PCs, tablets, cellphones, and other devices to access to corporate information systems,
+data, and the Internet.
+Common Ethical Issues for IT Users
+This section discusses a few common ethical issues for IT users. Additional ethical issues
+will be discussed in future chapters.
+Software Piracy
+As mentioned earlier in this chapter, software piracy in a corporate setting can sometimes
+be directly traceable to IT professionals—they might allow it to happen, or they might
+actively engage in it. Corporate IT usage policies and management should encourage users
+to report instances of piracy and to challenge its practice. For example, the software
+piracy rate in China exceeds 80 percent, so it is clear that the business managers and
+IT professionals in that country do not take a strong stand against the practice.
+Sometimes IT users are the ones who commit software piracy. A common violation
+occurs when employees copy software from their work computers for use at home. When
+confronted, the IT user’s argument might be:“I bought a home computer partly so I could
+take work home and be more productive; therefore, I need the same software on my home
+computer as I have at work.” However, if no one has paid for an additional license to use
+the software on the home computer, this is still piracy.
+The increasing popularity of the Android smartphone operating system has created a
+serious software piracy problem. Some IT end users have figured out how to download
+applications from the Android Market Web site without paying for them, and then use the
+software or sell it to others. One legitimate Android application developer complained that
+his first application was pirated within a month and that the number of downloads from
+the pirate’s site were greater than his own. Professional developers become discouraged as
+they watch their sales sink while pirates’ sales rocket.35 Inappropriate Use of Computing Resources
+Some employees use their computers to surf popular Web sites that have nothing to do
+with their jobs, participate in chat rooms, view pornographic sites, and play computer
+games. These activities eat away at worker productivity and waste time. Furthermore,
+activities such as viewing sexually explicit material, sharing lewd jokes, and sending hate
+email could lead to lawsuits and allegations that a company allowed a work environment
+conducive to racial or sexual harassment. A survey by the Fawcett Society found that one
+in five men admit to viewing porn at work, while a separate study found that 30 percent
+of mobile workers are viewing porn on their Web-enabled phones.36,37 Organizations
+typically fire frequent pornography offenders and take disciplinary action against less
+egregious offenders.
+Recently, the executive director of the Pentagon’s Missile Defense Agency issued a
+memo to its 8,000 employees warning them to stop using their work computers to access
+Internet porn sites. One concern of government officials is that many pornography sites
+are infected with computer viruses and other malware; criminals and foreign intelligence
+agencies often use such sites as a means to gain access to government and corporate
+computer networks. For example, a foreign agent can embed malware capable of stealing
+data or opening computer communications ports whenever certain photos or videos are
+downloaded to a computer.38
+Inappropriate Sharing of Information
+Every organization stores vast amounts of information that can be classified as either pri-
+vate or confidential. Private data describes individual employees—for example, their salary
+information, attendance data, health records, and performance ratings. Private data also
+includes information about customers—credit card information, telephone number, home
+address, and so on. Confidential information describes a company and its operations,
+including sales and promotion plans, staffing projections, manufacturing processes, prod-
+uct formulas, tactical and strategic plans, and research and development. An IT user who
+shares this information with an unauthorized party, even inadvertently, has violated
+someone’s privacy or created the potential that company information could fall into the
+hands of competitors. For example, if an employee accessed a coworker’s payroll records
+via a human resources computer system and then discussed them with a friend, it would
+be a clear violation of the coworker’s privacy.
+In late 2010, hundreds of thousands of leaked State Department documents were
+posted on the WikiLeaks Web site. As of this writing, it appears that the source of the leaks
+was a low-level IT user (an Army private) with access to confidential documents. The
+documents revealed details of behind-the-scenes international diplomacy, often divulging
+candid comments from world leaders and providing particulars of U.S. tactics in Afghani-
+stan, Iran, and North Korea.39 The leaked documents strained relations between the
+United States and some of its allies. It is also possible that the incident will lead to less
+sharing of sensitive information with the United States because of concerns over further
+disclosures.
+Chapter 2
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+Supporting the Ethical Practices of IT Users
+The growing use of IT has increased the potential for new ethical issues and problems;
+thus, many organizations have recognized the need to develop policies that protect against
+abuses. Although no policy can stop wrongdoers, it can set forth the general rights and
+responsibilities of all IT users, establish boundaries of acceptable and unacceptable
+behavior, and enable management to punish violators. Adherence to a policy can improve
+services to users, increase productivity, and reduce costs. Companies can take several of
+the following actions when creating an IT usage policy.
+Establishing Guidelines for Use of Company Software
+Company IT managers must provide clear rules that govern the use of home computers
+and associated software. Some companies negotiate contracts with software manufacturers
+and provide PCs and software so that IT users can work at home. Other companies help
+employees buy hardware and software at corporate discount rates. The goal should be to
+ensure that employees have legal copies of all the software they need to be effective,
+regardless of whether they work in an office, on the road, or at home.
+Defining the Appropriate Use of IT Resources
+Companies must develop, communicate, and enforce written guidelines that encourage
+employees to respect corporate IT resources and use them to enhance their job perfor-
+mance. Effective guidelines allow some level of personal use while prohibiting employees
+from visiting objectionable Internet sites or using company email to send offensive or
+harassing messages.
+Structuring Information Systems to Protect Data and Information
+Organizations must implement systems and procedures that limit data access to just those
+employees who need it. For example, sales managers may have total access to sales and
+promotion databases through a company network, but their access should be limited to
+products for which they are responsible. Furthermore, they should be prohibited from
+accessing data about research and development results, product formulas, and staffing
+projections if they don’t need it to do their jobs.
+Installing and Maintaining a Corporate Firewall
+A firewall is hardware or software that serves as a barrier between an organization’s net-
+work and the Internet; a firewall also limits access to the company’s network based on the
+organization’s Internet-usage policy. A firewall can be configured to serve as an effective
+deterrent to unauthorized Web surfing by blocking access to specific objectionable Web
+sites. (Unfortunately, the number of such sites is continually growing, so it is difficult to
+block them all.) A firewall can also serve as an effective barrier to incoming email from
+certain Web sites, companies, or users. It can even be programmed to block email with
+certain kinds of attachments (for example, Microsoft Word documents), which reduces the
+risk of harmful computer viruses.
+Table 2-5 provides a manager’s checklist f TABLE 2-5 Manager’s checklist for establishing an IT usage policy
+Question Yes No
+64
+Is there a statement that explains the need for an IT usage policy?
+Does the policy provide a clear set of guiding principles for ethical decision
+making?
+Is it clear how the policy applies to the following types of workers?
+• Employees
+• Part-time workers
+• Temps
+• Contractors
+Does the policy address the following issues?
+• Protection of the data privacy rights of employees, customers,
+suppliers, and others
+• Control of access to proprietary company data and information
+• Use of unauthorized or pirated software
+• Employee monitoring, including email, wiretapping and
+eavesdropping on phone conversations, computer monitoring,
+and surveillance by video
+• Respect of the intellectual rights of others, including trade
+secrets, copyrights, patents, and trademarks
+• Inappropriate use of IT resources, such as Web surfing,
+blogging, personal emailing, and other use of computers for
+purposes other than business
+• The need to protect the security of IT resources through
+adherence to good security practices, such as not sharing
+user IDs and passwords, using hard-to-guess passwords,
+and frequently changing passwords
+• The use of the computer to intimidate, harass, or insult others
+through abusive language in emails and by other means
+Are disciplinary actions defined for IT-related abuses?
+Is there a process for communicating the policy to employees?
+Is there a plan to provide effective, ongoing training relative to the policy?
+Has a corporate firewall been implemented?
+Is the corporate firewall maintained and kept up to date?
+Source Line: Course Technology/Cengage Learning.
+Compliance
+Compliance means to be in accordance with established policies, guidelines, specifica-
+tions, or legislation. Records management software, for example, may be developed in
+compliance with the U.S. Department of Defense’s Design Criteria Standard for Electronic
+Management Software applications (known as DoD 5015) that defines mandatory
+Chapter 2
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+functional requirements for records management software used within the Department of
+Defense. Commercial software used within an organization should be distributed in com-
+pliance with the vendor’s licensing agreement.
+In the legal system, compliance usually refers to behavior in accordance with legisla-
+tion—such as the Sarbanes–Oxley Act of 2002, which established requirements for inter-
+nal controls to govern the creation and documentation of accurate and complete financial
+statements, or the U.S. Health Insurance Portability and Accountability Act of 1996
+(HIPAA), which requires employers to ensure the security and privacy of employee
+healthcare data. Failure to be in compliance to specific pieces of legislation can lead to
+criminal or civil penalties specified in that legislation.
+Failure to be in compliance with legislation can also lead to lawsuits or government
+fines. For instance, the California Online Privacy Protection Act of 2003 requires
+“commercial operators of online services, including mobile and social apps, which collect
+personally identifiable information from Californians, to conspicuously post a privacy
+policy,” according to the California Attorney General’s office. Such a policy must outline
+what data is gathered, for what purposes the data is being collected, and with whom the
+data may be shared. Developers of mobile applications face fines of up to $2,500 for every
+noncompliant application that is downloaded. Several organizations, including Delta,
+United Airlines, and Open Table, were notified by the Attorney General’s office in late
+2012 that they were not in compliance and were given 30 days to provide specific plans
+and a timeline for becoming compliant with the law.40
+Demonstrating compliance with multiple government and industry regulations, many
+with similar but sometimes conflicting requirements, can be a major challenge. As a result,
+many organizations have implemented specialized software to track and record compli-
+ance actions, hired management consultants to provide advice and training, and even
+created a new position, the chief compliance officer (CCO), to deal with the issues.
+In 1972, the Securities and Exchange Commission (SEC) recommended that publicly
+held organizations establish audit committees.41 The audit committee of a board of direc-
+tors provides assistance to the board in fulfilling its responsibilities with respect to the
+oversight of the following areas of activity:
+• The quality and integrity of the organization’s accounting and reporting
+practices and controls, including the financial statements and reports
+• The organization’s compliance with legal and regulatory requirements
+• The qualifications, independence, and performance of the company’s
+independent auditor (a certified public accountant who provides a company
+with an accountant’s opinion but who is not otherwise associated with the
+company)
+• The performance of the company’s internal audit team
+In some cases, audit committees have uncovered violations of law and reported their
+findings to appropriate law enforcement agencies. For example, the audit committee of
+Sensata Technology (which designs, manufactures, and distributes electronic sensors and
+controls) conducted an investigation into whether certain company officials had violated
+foreign bribery laws in connection with a business deal in China. As a result of that inves-
+tigation, the audit committee reported possibl In addition to an audit committee, most organizations also have an internal audit
+department whose primary responsibilities are to
+• Determine that internal systems and controls are adequate and effective
+• Verify the existence of company assets and maintain proper safeguards over
+their protection
+• Measure the organization’s compliance with its own policies and procedures
+• Ensure that institutional policies and procedures, appropriate laws, and good
+practices are followed
+• Evaluate the adequacy and reliability of information available for manage-
+ment decision making
+Although the members of the internal audit team are not typically experts in detecting
+and investigating financial statement fraud, they can offer advice on how to develop and
+test policies and procedures that result in transactions being recorded in accordance with
+generally accepted accounting principles (GAAP). This can go a long way toward deterring
+fraud related to an organization’s financial statements. Quite often in cases of financial
+statement fraud, senior management (including members of the audit committee) ignored
+or tried to suppress the recommendations of the internal audit team, especially when red
+flags were raised.
+The audit committee and members of the internal audit team have a major role in
+ensuring that both the IT organization and IT users are in compliance with the various
+
+C H A P T E R 3
+C O M P U T E R C R I M E
+A N D I N T E R N E T
+Q U O T E
+The most dangerous criminal may be the man gifted with reason, but with no morals.
+—Martin Luther King, Jr.
+V I G N E T T E
+The Reveton Ransomware Attacks
+In August 2012, the Internet Crime Complaint Center (IC3), a partnership between the FBI and the
+National White Collar Crime Center, was inundated with reports of a new type of cybercrime. Victims
+across the United States reported that while searching the Internet, their computers locked up, and they
+received the following message, purportedly from the FBI:“This operating system is locked due to the vio-
+lation of the federal laws of the United States of America! (Article 1, Section 8, Clause 8; Article 202; Arti-
+cle 210 of the Criminal Code of U.S.A. provides for a deprivation of liberty for four to twelve years.)” The
+message then accused the victim either of visiting pornography Web sites or of distributing copyrighted
+content. Victims were told they could unlock their computers and avoid prosecution by paying a fine of
+$200 within 72 hours of receiving the message. The message came replete with the official FBI logo.1
+The incident pointed to a steep rise in ransomware attacks. Ransomware is malware that dis-
+ables a computer or smartphone until the victim pays a fee, or ransom. Unlike other viruses, the Reveton version of ransomware is not activated by opening a file or an attachment. Rather it is an
+example of“drive-by malware,” viruses that download automatically when a user visits an infected
+Web site.2
+The FBI immediately issued an alert, but within a month, cybersecurity experts had identified 16
+variants of the ransomware. These viruses had infected 68,000 unique IP addresses. It is estimated
+that on an average day, about 170 victims paid the $200 fee and received valid unlock codes.3 The
+compromised computers could not be fixed through the installation or updating of antivirus software
+because the computer was locked. Because so many home PC owners fail to back up their systems
+regularly, many victims faced losing a significant amount of data. The $200 fee itself was low enough
+to encourage payment. A visit to a professional IT service to repair the damage could potentially cost
+the same amount and take more time to resolve. A quick payment through a prepaid money card sys-
+tem, such as MoneyPak, could save the victim a lot of trouble.
+The United States was not the first country to be hit by these attacks. In early 2012, criminal
+gangs targeted France, Germany, and the United Kingdom. Ransomware attacks first broke out in
+Russia in 2009. Since that time, they have spread to almost every country on the globe, hitting the
+United States and Japan especially hard. Symantec, an IT security company, estimates that gangs
+are extorting over $5 million per year from online victims.4 The rise of ransomware attacks is, no
+doubt, due in part to their success. In France, for example, almost 4 percent of victims coughed up
+the ransom money during a non-Reveton scam.5
+The Reveton ransomware is delivered by the popular Russian-language Citadel malware toolkit.
+The latest version of Citadel can also grab passwords from Web browsers and change Web sites to
+trick users into handing over their login information.6
+Chapter 3
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+In December 2012, the United Kingdom arrested three people they believed were involved in the
+Reveton ransomware attacks.7 Finding the perpetrators, however, is unusual and is not the most
+effective way to combat this crime. Law enforcement agencies and IT security companies have
+urged the public to take measures to prevent themselves from falling victim to such attacks—by keep-
+ing software such as Java, Acrobat Reader, Adobe Flash, Windows, and their browser software
+updated. An early Reveton ransomware attack made use of a vulnerability in a version of Java that
+had just been patched a month prior.8 Computer users can also avoid infections by using security
+software that identifies suspicious Web sites, and by not clicking online ads from dubious compa-
+nies.9 Perhaps, however, the best way to avoid the spread of these attacks is to encourage victims
+to report the crime and to refuse to comply with the ransom demands.
+83
+Questions to Consider
+1. Why are ransomware attacks on the rise?
+2. What can you do to prevent ransomware attacks on your own computer?
+3. How do you think victims should respond to ransomware attacks? Do they have an ethical
+obligation to future victims?
+L E A R N I N G O B J E C T I V E S
+As you read this chapter, consider the following questions:
+1. 2. 3. 4. 5. 6. 7. What key trade-offs and ethical issues are associated with the
+safeguarding of data and information systems?
+Why has there been a dramatic increase in the number of computer-
+related security incidents in recent years?
+What are the most common types of computer security attacks?
+Who are the primary perpetrators of computer crime, and what are their
+objectives?
+What are the key elements of a multilayer process for managing security
+vulnerabilities based on the concept of reasonable assurance?
+What actions must be taken in response to a security incident?
+What is computer forensics, an 84
+I T S E C U R I T Y I N C I D E N T S : A M A J O R
+C O N C E R N
+The security of information technology used in business is of utmost importance.
+Confidential business data and private customer and employee information must be
+safeguarded, and systems must be protected against malicious acts of theft or disruption.
+Although the necessity of security is obvious, it must often be balanced against other
+business needs. Business managers, IT professionals, and IT users all face a number of
+ethical decisions regarding IT security, such as the following:
+• If a firm is a victim of a computer crime, should it pursue prosecution of the
+criminals at all costs, maintain a low profile to avoid the negative publicity,
+inform its affected customers, or take some other action?
+• How much effort and money should be spent to safeguard against computer
+crime? (In other words, how safe is safe enough?)
+• If a company realizes that it has produced software with defects that make it
+possible for hackers to attack customer data and computers, what actions
+should it take?
+• What should be done if recommended computer security safeguards make
+conducting business more difficult for customers and employees, resulting in
+lost sales and increased costs?
+Table 3-1 shows the occurrence of common computer security incidents at 149 U.S.-based
+organizations that responded to the 2010/2011 CSI Computer Crime and Security Survey.
+TABLE 3-1 Most common computer-related security incidents
+Source Line: “2010/11 Computer Security Institute Computer Crime & Security Survey,” courtesy of the
+Computer Security Institute.
+Why Computer Incidents Are So Prevalent
+In today’s computing environment of increasing complexity, higher user expectations,
+expanding and changing systems, and growing reliance on software with known vulner-
+abilities, it is no wonder that the number, variety, and impact of security incidents are
+increasing dramatically. Computer security incidents occur around the world with
+personal computer users in developing countries being exposed to the greatest risk of
+Type of incident Percent of organizations that
+experienced this type of incident
+2008 2009 2010
+Malware infection 50% 64% 67%
+Being fraudulently represented as the sender of email
+messages requesting personal information
+31% 34% 39%
+Laptop or mobile hardware loss 42% 42% 34%
+Employee abuse of Internet access or email (e.g., accessing
+pornography or use of pirated software)
+44% 30% 25%
+Chapter 3
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+their computers being infected by malware. Table 3-2 shows the ranking of the best and
+worst countries in terms of percent of computers infected by malware as determined by
+Kaspersky Lab, a provider of computer security software and services.
+85
+Countries with highest rate of infected computers Countries with lowest rate of infected computers
+Country Rate Country Rate
+Sudan 70% Japan 6%
+Bangladesh 64% Germany 9%
+Iraq 62% Switzerland 10%
+Rwanda 57% Luxembourg 10%
+Nepal 56% Denmark 11%
+TABLE 3-2 Country ranking based on percent of infected computers
+Source Line: Stefan Tanase,“Q1/2011 Malware Report,” Kaspersky Lab, May 17, 2011.
+Separately, the Business Software Alliance recently analyzed 24 countries represent-
+ing the major users of information and communications technology in the world. The
+countries were rated based on data privacy, cybersecurity, cybercrime control, protection
+of intellectual property, IT infrastructure, free trade, technology interoperability, and the
+compatibility of country criminal laws with international standards regarding computer
+crime. Japan was the highest ranked country—with Australia, Germany, the United States,
+and France also rated highly. Brazil was rated dead last, primarily because it has no law
+that guarantees the privacy of data transfer, and its laws against cybercrime are very
+weak. It is estimated that in 2011, computer hackers stole over $1 billion (USD) from
+businesses in Brazil—32 percent of Brazilian businesses were victims of cyberattacks.10
+Increasing Complexity Increases Vulnerability
+The computing environment has become enormously complex. Networks, computers,
+operating systems, applications, Web sites, switches, routers, and gateways are intercon-
+nected and driven by hundreds of millions of lines of code. This environment continues to
+increase in complexity every day. The number of possible entry points to a network
+expands continually as more devices are added, increasing the possibility of security
+breaches.
+To further complicate matters, workers in many organizations operate in a cloud
+computing environment in which software and data storage are services provided via the
+Internet (“the cloud”); the services are run on another organization’s computer hardware
+and are accessed via a Web browser. This represents a significant change in how data is
+stored, accessed, and transferred, and it raises many security concerns. The unmanaged
+employee use of cloud services (e.g., the use of a file-sharing Web site to transfer large
+documents to clients or suppliers) represents a significant risk. IT and business managers
+should insist that employees choose from a list of validated cloud services to avoid poten-
+tial issues. Table 3-3 provides some key question TABLE 3-3 Questions to ask when evaluating cloud services
+Source Line: Course Technology/Cengage Learning.
+Question Yes No
+Are the interfaces between the cloud service and users secure, with appropriate
+levels of access control?
+Is data encrypted as it travels over the Internet?
+Does the service provide secure storage and access control over data stored in
+the cloud?
+Does the service provide backup capabilities in the event that a human-caused
+or natural disaster renders the primary service unusable?
+Is the cloud service provider reputable and financially viable?
+Virtualization also introduces further complications into today’s computer environ-
+ment. Virtualization software operates in a software layer that runs on top of the
+operating system. It enables multiple virtual machines—each with their own operating
+system—to run on a single computer. Each of these virtual machines performs as if it is
+a separate computer, completing required tasks for the users and applications assigned
+to that virtual machine. Virtualization takes advantage of the fact that most physical
+servers utilize less than 10 percent of their hardware capacity. With virtualization, the
+workload from multiple physical servers can be handled by separate virtual machines
+on a single physical server. Virtualization thus increases resource sharing and system
+utilization, greatly reducing the number of servers required to handle an organization’s
+processing needs. Fewer servers mean less computing space and less power is required
+to operate and cool the servers. Thus, virtualization lowers costs and reduces space
+requirements.11 However, operating in a virtual environment greatly complicates the
+operating environment and raises the potential harm if a single virtualized server is
+compromised by a hacker.
+Higher Computer User Expectations
+Today, time means money, and the faster computer users can solve a problem, the sooner
+they can be productive. As a result, computer help desks are under intense pressure to
+respond very quickly to users’ questions. Under duress, help desk personnel sometimes
+forget to verify users’ identities or to check whether they are authorized to perform a
+requested action. In addition, even though most have been warned against doing so, some
+computer users share their login ID and password with other coworkers who have forgot-
+ten their own passwords. This can enable workers to gain access to information systems
+and data for which they are not authorized.
+Expanding and Changing Systems Introduce New Risks
+Business has moved from an era of stand-alone computers, in which critical data was
+stored on an isolated mainframe computer in a locked room, to an era in which personal
+Chapter 3
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+computers connect to networks with millions of other computers, all capable of sharing
+information. Businesses have moved quickly into e-commerce, mobile computing,
+collaborative work groups, global business, and interorganizational information systems.
+Information technology has become ubiquitous and is a necessary tool for organizations
+to achieve their goals. However, it is increasingly difficult to keep up with the pace of
+technological change, successfully perform an ongoing assessment of new security risks,
+and implement approaches for dealing with them.
+87
+Bring Your Own Device
+Bring your own device (BYOD) is a business policy that permits, and in some cases
+encourages, employees to use their own mobile devices (smartphones, tablets, or laptops)
+to access company computing resources and applications, including email, corporate
+databases, the corporate intranet, and the Internet. Proponents of BYOD say it improves
+employee productivity by allowing workers to use devices with which they are already
+familiar—while also helping to create an image of a company as a flexible and progressive
+employer. Most companies have found they simply cannot entirely prevent employees
+from using their own devices to perform work functions. However, this practice raises
+many potential security issues as it is highly likely that such devices are also used for
+nonwork activity (browsing Web sites, blogging, shopping, visiting social networks, and
+so on) that exposes them to malware much more frequently than a device used strictly
+for business purposes. That malware may then be spread throughout the company.
+In addition, BYOD makes it extremely difficult for IT organizations to adequately
+safeguard additional portable devices with various operating systems and a myriad of
+applications.
+Increased Reliance on Commercial Software with Known Vulnerabilities
+In computing, an exploit is an attack on an information system that takes advantage of a
+particular system vulnerability. Often this attack is due to poor system design or imple-
+mentation. Once the vulnerability is discovered, software developers create and issue a
+“fix,” or patch, to eliminate the problem. Users of the system or application are responsible
+for obtaining and installing the patch, which they can usually download from the Web.
+(These fixes are in addition to other maintenance and project work that software developers
+perform.) For example, a critical vulnerability was discovered in Oracle’s Java 7 software
+that made it possible for a hacker to break into computers. Oracle released an emergency
+software fix to correct this problem.12
+Any delay in installing a patch exposes the user to a potential security breach. The
+need to install a fix to prevent a hacker from taking advantage of a known system vulner-
+ability can create an ethical dilemma for system support personnel trying to balance a
+busy work schedule. Should they install a patch that, if left uninstalled, could lead to a
+security breach or should they complete assigned project work so that the anticipated
+project savings and benefits from the project can begin to accrue on schedule? Since
+2006, the number of new software vulnerabilities identified ha TABLE 3-4 Total number of new software vulnerabilities identified annually
+Source Line: “Internet Security Threat Report: 2011 Trends,” Symantec, April 2012, www.symantec.com/
+content/en/us/enterprise/other_resources/b-istr_main_report_2011_21239364.en-us.pdf.
+Clearly, it can be difficult to keep up with all the required patches. Of special concern
+is a zero-day attack that takes place before the security community or software developer
+knows about the vulnerability or has been able to repair it. One would hope that the dis-
+coverer of a zero-day vulnerability would provide his knowledge to the original software
+manufacturer so that a fix can be created for the problem. However, in some cases,
+this knowledge is sold on the black market to cyberterrorists, governments, or large
+organizations that may then use it themselves in attacks on the computers of a rival.
+Zero-day exploits can command prices as high as $250,000.13
+U.S. companies increasingly rely on commercial software with known vulnerabilities.
+Even when vulnerabilities are exposed, many corporate IT organizations prefer to use
+already installed software“as is” rather than implement security fixes that will either
+make the software harder to use or eliminate“nice-to-have” features suggested by current
+users or potential customers that will help sell the software.
+Types of Exploits
+There are numerous types of computer attacks, with new varieties being invented all the
+time. This section discusses some of the more common attacks, including the virus,
+worm, Trojan horse, spam, distributed denial-of-service, rootkit, phishing, spear-phishing,
+smishing, and vishing.
+While we usually think of such exploits being aimed at computers, smartphones such
+as Apple’s iPhone, Research In Motion’s BlackBerry, and numerous smartphones based on
+Google’s Android operating system continue to become more computer capable. Increas-
+ingly, smartphone users store an array of personal identity information on their devices,
+including credit card numbers and bank account numbers. Smartphones are used to surf
+the Web and transact business electronically. The more people use their smartphones for
+these purposes, the more attractive these devices become as a target for cyberthieves. As
+discussed in the opening vignette, ransomware is a form of malware, which when down-
+loaded onto a smartphone, takes control of the device and its data until the owner agrees
+to pay a ransom to the attacker.14 Another form of smartphone malware runs up charges
+on users’ accounts by automatically sending messages to numbers that charge fees upon
+receipt of a message.15
+Chapter 3
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+Viruses
+Computer virus has become an umbrella term for many types of malicious code.
+Technically, a virus is a piece of programming code, usually disguised as something else,
+that causes a computer to behave in an unexpected and usually undesirable manner.
+Often a virus is attached to a file, so that when the infected file is opened, the virus
+executes. Other viruses sit in a computer’s memory and infect files as the computer opens,
+modifies, or creates them. Most viruses deliver a“payload,” or malicious software that
+causes the computer to perform in an unexpected way. For example, the virus may be
+programmed to display a certain message on the computer’s display screen, delete or
+modify a certain document, or reformat the hard drive.
+A true virus does not spread itself from computer to computer. A virus is spread to
+other machines when a computer user opens an infected email attachment, downloads an
+infected program, or visits infected Web sites. In other words, viruses spread by the action
+of the“infected” computer user.
+Macro viruses have become a common and easily created form of virus. Attackers use
+an application macro language (such as Visual Basic or VBScript) to create programs that
+infect documents and templates. After an infected document is opened, the virus is exe-
+cuted and infects the user’s application templates. Macros can insert unwanted words,
+numbers, or phrases into documents or alter command functions. After a macro virus
+infects a user’s application, it can embed itself in all future documents created with the
+application. The“WM97/Resume.A” virus is a Word macro virus spread via email with
+the subject line“Resume - Janet Simons.” If the email recipient clicks on the attachment,
+the virus deletes all data in the recipient’s mapped drives.
+Worms
+Unlike a computer virus, which requires users to spread infected files to other users, a
+worm is a harmful program that resides in the active memory of the computer and dupli-
+cates itself. Worms differ from viruses in that they can propagate without human inter-
+vention, often sending copies of themselves to other computers by email.
+The negative impact of a worm attack on an organization’s computers can be consid-
+erable—lost data and programs, lost productivity due to workers being unable to use their
+computers, additional lost productivity as workers attempt to recover data and programs,
+and lots of effort for IT workers to clean up the mess and restore everything to as close to
+normal as possible. The cost to repair the damage done by each of the Code Red, SirCam,
+and Melissa worms was estimated to exceed $1 billion, with that of the Conficker, Storm,
+and ILOVEYOU worms totaling well over $5 billion.16,17
+Trojan Horses
+A Trojan horse is a program in which malicious code is hidden inside a seemingly harm-
+less program. The program’s harmful payload might be designed to enable the hacker to
+destroy hard drives, corrupt files, control the computer remotely, launch attacks against
+other computers, steal passwords or Social Security numbers, or spy on users by recording
+keystrokes and transmitting them to a server operated by a third party.
+A Trojan horse can be delivered as an email attachment, downloaded from a Web site,
+or contracted via a removable media device such as a CD/DVD or USB memory stick. Once an unsuspecting user executes the program that hosts the Trojan horse, the
+malicious payload is automatically launched as well—with no telltale signs. Common host
+programs include screen savers, greeting card systems, and games.
+Win-7 Anti-Virus 2012 is a fake antivirus tool that infiltrates users’ computers through
+the use of a Trojan horse. Once on a user’s computer, the fake tool simulates a system
+scan and purports to find numerous infections of malware. It claims it can remove these
+infections if you purchase the tool by providing your credit card information.18
+Another type of Trojan horse is a logic bomb, which executes when it is triggered by a
+specific event. For example, logic bombs can be triggered by a change in a particular file,
+by typing a specific series of keystrokes, or by a specific time or date.
+Spam
+Email spam is the abuse of email systems to send unsolicited email to large numbers of
+people. Most spam is a form of low-cost commercial advertising, sometimes for question-
+able products such as pornography, phony get-rich-quick schemes, and worthless stock.
+Spam is also an extremely inexpensive method of marketing used by many legitimate
+organizations. For example, a company might send email to a broad cross section of
+potential customers to announce the release of a new product in an attempt to increase
+initial sales. Spam is also used to deliver harmful worms and other malware.
+The cost of creating an email campaign for a product or service is several hundred to a few
+thousand dollars, compared with tens of thousands of dollars for direct-mail campaigns. In
+addition, email campaigns take only a couple of weeks to develop, compared with three months
+or more for direct-mail campaigns, and the turnaround time for feedback averages 48 hours for
+email as opposed to weeks for direct mail. However, the benefits of spam to companies can be
+largely offset by the public’s generally negative reaction to receiving unsolicited ads.
+Spam forces unwanted and often objectionable material into email boxes, detracts
+from the ability of recipients to communicate effectively due to full mailboxes and relevant
+emails being hidden among many unsolicited messages, and costs Internet users and ser-
+vice providers millions of dollars annually. It takes users time to scan and delete spam
+email, a cost that can add up if they pay for Internet connection charges on an hourly
+basis. It also costs money for Internet service providers (ISPs) and online services to
+transmit spam, which is reflected in the rates charged to all subscribers.
+The Controlling the Assault of Non-Solicited Pornography and Marketing
+(CAN-SPAM) Act went into effect in January 2004. The act says that it is legal to spam,
+provided the messages meet a few basic requirements—spammers cannot disguise their
+identity by using a false return address, the email must include a label specifying that it
+is an ad or a solicitation, and the email must include a way for recipients to indicate that
+they do not want future mass mailings. Despite CAN-SPAM and other measures, the
+percentage of spam in email messages averaged 68 percent in October 2012, according
+to Securelist, a blog run by the computer security firm Kaspersky Labs.19
+Many companies—including Google, Microsoft, and Yahoo!—offer free email services.
+Spammers often seek to use email accounts from such major, free, and reputable Web-based
+email service providers, as their spam can be sent at no charge and is less likely to be
+blocked. Spammers can defeat the registration process of the free email services by launching
+a coordinated bot attack that can sign up for thousands of email accounts. These accounts are
+then used by the spammers to send thousands of untraceable email messages for free.
+Chapter 3
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+A partial solution to this problem is the use of CAPTCHA to ensure that only humans
+obtain free accounts. CAPTCHA (Completely Automated Public Turing Test to Tell Com-
+puters and Humans Apart) software generates and grades tests that humans can pass but
+all but the most sophisticated computer programs cannot. For example, humans can read
+the distorted text in Figure 3-1, but simple computer programs cannot.
+91
+FIGURE 3-1 Example of CAPTCHA
+Source Line: CAPTCHA example from www.recaptcha.net. Courtesy of Carnegie Mellon University.
+Distributed Denial-of-Service (DDoS) Attacks
+A distributed denial-of-service (DDoS) attack is one in which a malicious hacker takes
+over computers via the Internet and causes them to flood a target site with demands for
+data and other small tasks. A distributed denial-of-service attack does not involve infiltra-
+tion of the targeted system. Instead, it keeps the target so busy responding to a stream of
+automated requests that legitimate users cannot get in—the Internet equivalent of dialing
+a telephone number repeatedly so that all other callers hear a busy signal. The targeted
+machine“holds the line open” while waiting for a reply that never comes, and eventually
+the requests exhaust all resources of the target, as illustrated in Figure 3-2.
+The software to initiate a denial-of-service attack is simple to use, and over 55 DDoS
+tools are readily available at a variety of hacker sites.20 A tiny program is downloaded
+surreptitiously from the attacker’s computer to dozens, hundreds, or even thousands of
+computers all over the world. The term botnet is used to describe a large group of such
+computers, which are controlled from one or more remote locations by hackers, without
+the knowledge or consent of their owners. The collective processing capacity of some bot-
+nets exceeds that of the world’s most powerful supercomputers. Based on a command by
+the attacker or at a preset time, the botnet computers (called zombies) go into action,
+each sending a simple request for access to the target site again and again—dozens of
+times per second. The target computers are so overwhelmed by requests for service that
+legitimate users are unable to“get through” to the target computer. Banks and other
+e-commerce Web sites are frequent targets of botnets. Both the Bank of America and
+Chase banks were hit with a DDoS attack in the fall of 2012.21 Computer A
+Response
+Waiting for reply from A
+Request
+Computer B
+Response
+Waiting for reply from B
+Request
+Computer C
+Response
+Waiting for reply from C
+Request
+Computer D
+Response
+Waiting for reply from D
+Request
+Computer E
+Response
+Waiting for reply from E
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+FIGURE 3-2 Distributed denial-of-service attack
+Source Line: Course Technology/Cengage Learning.
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+Botnets are also frequently used to distribute spam and malicious code. The Grum
+botnet was first detected in 2008 and operated until 2012 when it was brought down by
+cybercrime fighters. Grum infected several hundred thousand computers around the world.
+It generated prodigious amounts of spam advertising cheap pharmaceutical products. At its
+peak, Grum is estimated to have been responsible for 35 percent of the world’s spam.22
+Rootkits
+A rootkit is a set of programs that enables its user to gain administrator-level access to a
+computer without the end user’s consent or knowledge. Once installed, the attacker can
+gain full control of the system and even obscure the presence of the rootkit from legiti-
+mate system administrators. Attackers can use the rootkit to execute files, access logs,
+monitor user activity, and change the computer’s configuration. Rootkits are one part of a
+blended threat, consisting of the dropper, loader, and rootkit. The dropper code gets the
+rootkit installation started and can be activated by clicking on a link to a malicious Web
+site in an email or opening an infected PDF file. The dropper launches the loader program
+and then deletes itself. The loader loads the rootkit into memory; at that point, the
+computer has been compromised. Rootkits are designed so cleverly that it is difficult even
+to discover if they are installed on a computer. The fundamental problem with trying
+Chapter 3
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+to detect a rootkit is that the operating system currently running cannot be trusted to
+provide valid test results. Here are some symptoms of rootkit infections:
+• The computer locks up or fails to respond to input from the keyboard or mouse.
+• The screen saver changes without any action on the part of the user.
+• The taskbar disappears.
+• Network activities function extremely slowly.
+When it is determined that a computer has been infected with a rootkit, there is little
+to do but reformat the disk; reinstall the operating system and all applications; and recon-
+figure the user’s settings, such as mapped drives. This can take hours, and the user may be
+left with a basic working machine, but all locally held data and settings may be lost.
+A recent rootkit, labeled the“2012 rootkit virus,” is a nasty piece of malware that
+deletes information from a computer and makes it impossible to run some applications,
+such as Microsoft Word. The longer the rootkit is present, the more damage it causes. The
+virus asks users to install what appears to be a legitimate update to their antivirus software
+or some other application. By the time the user sees the prompt to install the software, it
+is too late, the computer has already been infected by the rootkit.23
+Phishing
+Phishing is the act of fraudulently using email to try to get the recipient to reveal personal
+data. In a phishing scam, con artists send legitimate-looking emails urging the recipient to
+take action to avoid a negative consequence or to receive a reward. The requested action
+may involve clicking on a link to a Web site or opening an email attachment. These
+emails, such as the one shown in Figure 3-3, lead consumers to counterfeit We Savvy users often become suspicious and refuse to enter data into the fake Web sites;
+however, sometimes just accessing the Web site can trigger an automatic and unnoticeable
+download of malicious software to a computer. Citibank, eBay, and PayPal are among the
+Web sites that phishers spoof most frequently. It is estimated that .03 percent of all emails
+sent in October 2012 were phishing attacks.24
+Spear-phishing is a variation of phishing in which the phisher sends fraudulent emails
+to a certain organization’s employees. It is known as spear-phishing because the attack is
+much more precise and narrow, like the tip of a spear. The phony emails are designed to
+look like they came from high-level executives within the organization. Employees are
+directed to a fake Web site and then asked to enter personal information, such as name,
+Social Security number, and network passwords. Botnets have become the primary means
+for distributing phishing scams.
+Strategic Forecasting (commonly referred to as Stratfor) is an intelligence analysis
+firm whose clients include the U.S. Army, the Department of Defense, and military con-
+tractor Lockheed Martin. A hacker group broke into the firm’s network and stole informa-
+tion on thousands of email accounts. This information was used to initiate spear-phishing
+attacks on employees of the firm’s clients. The emails, which were designed to look as if
+they came from Stratfor, directed recipients to a Web site that looked like the Stratfor
+Web site and instructed them to enter private information. In addition, the emails were
+laced with malware and other harmful attachments.25
+Smishing and Vishing
+Smishing is another variation of phishing that involves the use of Short Message Service (SMS)
+texting. In a smishing scam, people receive a legitimate-looking text message on their phone
+telling them to call a specific phone number or to log on to a Web site. This is often done under
+the guise that there is a problem with their bank account or credit card that requires immediate
+attention. However, the phone number or Web site is phony and is used to trick unsuspecting
+victims into providing personal information such as a bank account number, personal
+identification number, or credit card number. This information can be used to steal money
+from victims’ bank accounts, charge purchases on their credit cards, or open new accounts.
+In some cases, if victims log on to a Web site, malicious software is downloaded onto their
+phones, providing criminals with access to information stored on the phones. The number of
+smishing scams increases around the holidays as people use their cell phones to make online
+purchases. Vishing is similar to smishing except that the victims receive a voice mail telling
+them to call a phone number or access a Web site. Here are two examples of smishing crimes:
+• Account holders at a credit union were sent a text about an account problem
+and were told to call a phone number provided in the text. If they did so,
+they were asked to provide personal information that allowed criminals to
+steal funds from their accounts within 10 minutes of the phone call.
+• Bank customers received a text stating that it was necessary to reactivate their
+automated teller machine (ATM) card. Those who called the phone number in
+the text were asked to provide their ATM card number, PIN, and expiration
+date. Thousands of victims had money stolen from their accounts.26
+Financial institutions, credit card companies, and other organizations whose custo-
+mers may be targeted by criminals in this manner need to be on the alert for phishing,
+smishing, and vishing scams. They must be prepared to act quickly and decisively without
+Chapter 3
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+alarming their customers if such a scam is detected. Recommended action steps for insti-
+tutions and organizations include the following:
+• Companies should educate their customers about the dangers of phishing,
+smishing, and vishing through letters, recorded messages for those calling
+into the company’s call center, and articles on the company’s Web site.
+• Call center service employees should be trained to detect customer com-
+plaints that indicate a scam is being perpetrated. They should attempt to
+capture key pieces of information, such as the callback number the customer
+was directed to use, details of the phone message or text message, and the
+type of information requested.
+• Customers should be notified immediately if a scam occurs. This can be done
+via a recorded message for customers phoning the call center, working with
+local media to place a news article in papers serving the area of the attack,
+placing a banner on the institution’s Web page, and even displaying posters in
+bank drive-through and lobby areas.
+• If it is determined that the calls are originating from within the United States,
+companies should report the scam to the Federal Bureau of Investigation (FBI).
+• Institutions can also try to notify the telecommunications carrier for the
+particular phone number that victims are requested to call, to request that
+they shut down that number.27
+they shut down that number.27
+95
+Types of Perpetrators
+The people who launch these kinds of computer attacks include thrill seekers wanting a
+challenge, common criminals looking for financial gain, industrial spies trying to gain a
+competitive advantage, and terrorists seeking to cause destruction to further their cause.
+Each type of perpetrator has different objectives and access to varying resources, and each
+is willing to accept different levels of risk to accomplish his or her objective. Each perpe-
+trator makes a decision to act in an unethical manner to achieve his or her own personal
+objectives. Knowing the profile of each set of likely attackers, as shown in Table 3-5, is the
+first step toward establishing effective countermeasures.
+TABLE 3-5 Classifying perpetrators of computer crime
+Source Line: Course Technology/Cengage Learning.
+Type of perpetrator Typical motives
+Hackers Test limits of system and/or gain publicity
+Crackers Cause problems, steal data, and corrupt systems
+Malicious insiders Gain financially and/or disrupt company’s information systems and business operations
+Industrial spies Capture trade secrets and gain competitive advantage
+Cybercriminals Gain financially
+Hacktivists Promote political ideology
+Cyberterrorists Destroy infrastructure components Hackers and Crackers
+Hackers test the limitations of information systems out of intellectual curiosity—to see
+whether they can gain access and how far they can go. They have at least a basic under-
+standing of information systems and security features, and much of their motivation
+comes from a desire to learn even more. The term hacker has evolved over the years,
+leading to its negative connotation today rather than the positive one it used to have.
+While there is still a vocal minority who believe that hackers perform a service by identi-
+fying security weaknesses, most people now believe that a hacker does not have the right
+to explore public or private networks.
+Some hackers are smart and talented, but many are technically inept and are referred to
+as lamers or script kiddies by more skilled hackers. Surprisingly, hackers have a wealth of
+available resources to hone their skills—online chat groups, Web sites, downloadable hacker
+tools, and even hacker conventions (such as DEFCON, an annual gathering in Las Vegas).
+Malicious Insiders
+A major security concern for companies is the malicious insider—an ever-present and
+extremely dangerous adversary. Companies are exposed to a wide range of fraud risks,
+including diversion of company funds, theft of assets, fraud connected with bidding
+processes, invoice and payment fraud, computer fraud, and credit card fraud. Not
+surprisingly, fraud that occurs within an organization is usually due to weaknesses in its
+internal control procedures. As a result, many frauds are discovered by chance and by
+outsiders—via tips, through resolving payment issues with contractors or suppliers, or
+during a change of management—rather than through control procedures. Often, frauds
+involve some form of collusion, or cooperation, between an employee and an outsider.
+For example, an employee in Accounts Payable might engage in collusion with a company
+supplier. Each time the supplier submits an invoice, the Accounts Payable employee adds
+$1,000 to the amount approved for payment. The inflated payment is received by the
+supplier, and the two split the extra money.
+Insiders are not necessarily employees; they can also be consultants and contractors.
+The risk tolerance of insiders depends on whether they are motivated by financial gain,
+revenge on their employers, or publicity.
+Malicious insiders are extremely difficult to detect or stop because they are often
+authorized to access the very systems they abuse. Although insiders are less likely to
+attack systems than outside hackers or crackers are, the company’s systems are far more
+vulnerable to them. Most computer security measures are designed to stop external
+attackers but are nearly powerless against insiders. Insiders have knowledge of individual
+systems, which often includes the procedures to gain access to login IDs and passwords.
+Insiders know how the systems work and where the weak points are. Their knowledge of
+organizational structure and security procedures helps them avoid detection of their
+actions.
+The Saudi Arabian Oil Company (Aramco) is the state-owned oil company of Saudi
+Arabia. It owns approximately one-fifth of the world’s oil reserves and employs more than
+55,000 workers in 77 countries.28 In 2012, the firm was a victim of a cyberattack that
+erased data on about 30,000 of its personal computers. Security experts believe that the
+attack was led by a company insider who had privileged access to Aramco’s network.29
+Chapter 3
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+There are several steps organizations can take to reduce the potential for attacks from
+insiders, including the following:
+• Perform a thorough background check as well as psychological and drug
+testing of candidates for sensitive positions.
+• Establish an expectation of regular and ongoing psychological and drug
+testing as a normal routine for people in sensitive positions.
+• Carefully limit the number of people who can perform sensitive operations,
+and grant only the minimum rights and privileges necessary to perform
+essential duties.
+• Define job roles and procedures so it is not possible for the same person to
+both initiate and approve an action.
+• Periodically rotate employees in sensitive positions so that any unusual
+procedures can be detected by the replacement.
+• Immediately revoke all rights and privileges required to perform old job
+responsibilities when someone in a sensitive position moves to a new
+position.
+• Implement an ongoing audit process to review key actions and procedures.
+Organizations must also be concerned about negligent insiders, poorly trained and
+inadequately managed employees who mean well but have the potential to cause much
+damage by accident.
+Industrial Spies
+Industrial spies use illegal means to obtain trade secrets from competitors. In the United
+States, trade secrets are protected by the Economic Espionage Act of 1996, which makes it
+a federal crime to use a trade secret for one’s own benefit or another’s benefit. Trade secrets
+are most often stolen by insiders, such as disgruntled employees and exemployees.
+Competitive intelligence is legally obtained information gathered using sources
+available to the public. Information is gathered from financial reports, trade journals,
+public filings, and printed interviews with company officials. Industrial espionage
+involves using illegal means to obtain information that is not available to the public.
+Participants might place a wiretap on the phones of key company officials, bug a confer-
+ence room, or break into a research and development facility to steal confidential test
+results. An unethical firm may spend a few thousand dollars to hire an industrial spy to
+steal trade secrets that can be worth a thousand times that amount. The industrial spy
+avoids taking risks that would expose his employer, as the employer’s reputation (an
+intangible but valuable item) would be considerably damaged if the espionage were dis-
+covered. Industrial espionage can involve the theft of new product designs, production
+data, marketing information, or new software source code. For example, a virus called
+“ACAD/Medre.A” was used to steal thousands of blueprints from companies based mainly
+in Peru and secretly email them to two Chinese firms. The virus targets AutoCAD soft-
+ware used by engineers and industrial designers to create drawings of new products,
+equipment, and plant layouts. It is suspected that the virus was initially distributed via
+an innocent looking AutoCAD template emailed to Peruvian companies. The virus sends
+a copy of every new design to the virus owners, giving them full“access to the designs
+even before they go into production.”30 Cybercriminals
+Information technology provides a new and highly profitable venue for cybercriminals,
+who are attracted to the use of information technology for its ease in reaching millions of
+potential victims. Cybercriminals are motivated by the potential for monetary gain and
+hack into computers to steal, often by transferring money from one account to another to
+another—leaving a hopelessly complicated trail for law enforcement officers to follow.
+Cybercriminals also engage in all forms of computer fraud—stealing and reselling credit
+card numbers, personal identities, and cell phone IDs. Because the potential for monetary
+gain is high, they can afford to spend large sums of money to buy the technical expertise
+and access they need from unethical insiders.
+The use of stolen credit card information is a favorite ploy of computer criminals.
+Fraud rates are highest for merchants who sell downloadable software or expensive items
+such as electronics and jewelry (because of their high resale value). Credit card companies
+are so concerned about making consumers feel safe while shopping online that many are
+marketing new and exclusive zero-liability programs, although the Fair Credit Billing Act
+limits consumer liability to only $50 of unauthorized charges. When a charge is made
+fraudulently in a retail store, the bank that issued the credit card must pay the fraudulent
+charges. For fraudulent credit card transactions over the Internet, the Web merchant
+absorbs the cost.
+A high rate of disputed transactions, known as charge-backs, can greatly reduce a Web
+merchant’s profit margin. However, the permanent loss of revenue caused by lost cus-
+tomer trust has far more impact than the costs of fraudulent purchases and bolstering
+security. Most companies are afraid to admit publicly that they have been hit by online
+fraud or hackers because they don’t want to hurt their reputations.
+In a major case of identity theft, MasterCard recently notified financial institutions
+that a data breach had occurred at one of its third-party payment processors that
+could enable the thieves to duplicate the cards of millions of its cardholders. (A data
+breach is the unintended release of sensitive data or the access of sensitive data by
+unauthorized individuals.) It is likely that data of Visa card holders was also stolen.
+The total number of card holders that might be affected and the banks notified were
+not revealed.31
+To reduce the potential for online credit card fraud, most e-commerce Web sites use
+some form of encryption technology to protect information as it comes in from the con-
+sumer. Some also verify the address submitted online against the one the issuing bank has
+on file, although the merchant may inadvertently throw out legitimate orders as a result—
+for example, a consumer might place a legitimate order but request shipment to a different
+address because it is a gift. Another security technique is to ask for a card verification
+value (CVV), the three-digit number above the signature panel on the back of a credit
+card. This technique makes it impossible to make purchases with a credit card number
+stolen online. An additional security option is transaction-risk scoring software, which
+keeps track of a customer’s historical shopping patterns and notes deviations from the
+norm. For example, say that you have never been to a casino and your credit card infor-
+mation is being used at Caesar’s Palace at 2:00 a.m. The transaction-risk score would go
+up dramatically, so much so that the transaction might be declined.
+Some card issuers are issuing debit and credit cards in the form of smart cards, which
+contain a memory chip that is updated with encrypted data every time the card is used.
+Chapter 3
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+This encrypted data might include the user’s account identification and the amount of credit
+remaining. To use a smart card for online transactions, consumers must purchase a card
+reader that attaches to their personal computers and enter a personal identification number
+to gain access to the account. Although smart cards are used widely in Europe, they are not
+as popular in the United States because of the changeover costs for merchants.
+Hacktivists and Cyberterrorists
+Hacktivism, a combination of the words hacking and activism, is hacking to achieve a politi-
+cal or social goal. A cyberterrorist launches computer-based attacks against other computers
+or networks in an attempt to intimidate or coerce an organization in order to advance certain
+political or social objectives. Cyberterrorists are more extreme in their goals than hacktivists,
+although there is no clear demarcation line. Because of the Internet, cyberattacks can easily
+originate from foreign countries, making detection and retaliation much more difficult.
+Cyberterrorists seek to cause harm rather than gather information, and they use techniques
+that destroy or disrupt services. They are extremely dangerous, consider themselves to be at
+war, have a very high acceptance of risk, and seek maximum impact.
+In late 2012, the hacktivist group Parastoo hacked into the International Atomic
+Energy Agency (IAEA) network and stole the email addresses of 167 experts working with
+the agency. The group then posted an online statement demanding that the experts peti-
+tion the IAEA to investigate what it considered to be“beyond-harmful operations” at
+Israel’s Negev Nuclear Research Center. Parastoo threatened to expose the whereabouts
+of these experts, as well as other personal information, if they failed to act.32
+99
+Federal Laws for Prosecuting Computer Attacks
+Computers came into use in the 1950s. Initially, there were no laws that pertained strictly
+to computer-related crimes. For example, if a group of criminals entered a bank and stole
+money at gunpoint, they could be captured and charged with robbery—the crime of seiz-
+ing property through violence or intimidation. However, by the mid-1970s, it was possible
+to access a bank’s computer remotely using a terminal (a keyboard and monitor), modem,
+and telephone line. A knowledgeable person could then transfer money (in the form of
+computer bits) from accounts in that bank to an account in another bank. This act did not
+fit the definition of robbery, and the traditional laws were no longer adequate to punish
+criminals who used computer modems.
+Over the years, several laws have been enacted to help prosecute those responsible for
+computer-related crime; these are summarized in Table 3-6. For example, the USA Patriot
+Act defines cyberterrorism as hacking attempts that cause $5,000 in aggregate damage in
+one year to medical equipment, or that cause injury to any person. Those convicted of
+cyberterrorism are subject to a prison term of 5 to 20 years. (The $5,000 threshold is
+quite easy to exceed, and, as a result, many young people who have been involved in what
+they consider to be minor computer pranks have found themselves meeting the criteria to
+be tried as cyberterrorists.)
+Now that we have discussed various types of computer exploits, the people who per-
+petrate these exploits, and the laws under which they can be prosecuted, we will discuss
+how organizations can take steps to implement a trustworthy computing environment to
+defend against such attacks. TABLE 3-6 Federal laws that address computer crime
+Source Line: Course Technology/Cengage Learning.
+Federal law Subject area
+USA Patriot Act Defines cyberterrorism and associated penalties
+Identity Theft and Assumption Deterrence
+Act (U.S. Code Title 18, Section 1028)
+Makes identity theft a federal crime with penalties up
+to 15 years imprisonment and a maximum fine of
+$250,000
+Fraud and Related Activity in Connection
+with Access Devices Statute (U.S. Code Title
+18, Section 1029)
+False claims regarding unauthorized use of credit
+cards
+Computer Fraud and Abuse Act (U.S. Code
+Title 18, Section 1030)
+Fraud and related activities in association with
+computers:
+• Accessing a computer without authorization or
+exceeding authorized access
+• Transmitting a program, code, or command
+that causes harm to a computer
+• Trafficking of computer passwords
+• Threatening to cause damage to a protected
+computer
+Stored Wire and Electronic Communications
+and Transactional Records Access Statutes
+(U.S. Code Title 18, Chapter 121)
+Unlawful access to stored communications to obtain,
+alter, or prevent authorized access to a wire or
+electronic communication while it is in electronic
+storage
+I M P L E M E N T I N G T R U S T W O R T H Y C O M P U T I N G
+Trustworthy computing is a method of computing that delivers secure, private, and
+reliable computing experiences based on sound business practices—which is what
+organizations worldwide are demanding today. Software and hardware manufacturers,
+consultants, and programmers all understand that this is a priority for their customers.
+For example, Microsoft has pledged to deliver on a trustworthy computing initiative designed
+to improve trust in its software products, as summarized in Figure 3-4 and Table 3-7.33
+The security of any system or network is a combination of technology, policy, and
+people and requires a wide range of activities to be effective. As the Committee on
+Improving Cybersecurity Research in the United States wrote in a report for the National
+Academy of Sciences,“Society ultimately expects computer systems to be trustworthy—
+that is, that they do what is required and expected of them despite environmental disrup-
+tion, human user and operator errors, and attacks by hostile parties, and that they not do
+other things.”34 A strong security program begins by assessing threats to the organization’s
+computers and network, identifying actions that address the most serious vulnerabilities,
+and educating end users about the risks involved and the actions they must take to
+prevent a security incident. An organization’s IT security group must lead the effort to
+prevent security breaches by implementing security policies and procedures, as well as
+effectively employing available hardware and software tools. However, no security system
+Chapter 3
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+Trustworthy computing
+101
+Security Privacy Reliability
+Business
+integrity
+FIGURE 3-4 Microsoft’s four pillars of trustworthy computing
+Source Line: Course Technology/Cengage Learning.
+TABLE 3-7 Actions taken by Microsoft to support trustworthy computing
+Source Line: Course Technology/Cengage Learning.
+Pillar Actions taken by Microsoft
+Security Invest in the expertise and technology required to create a trustworthy environment.
+Work with law enforcement agencies, industry experts, academia, and private sectors to
+create and enforce secure computing.
+Develop trust by educating consumers on secure computing.
+Privacy Make privacy a priority in the design, development, and testing of products.
+Contribute to standards and policies created by industry organizations and government.
+Provide users with a sense of control over their personal information.
+Reliability Build systems so that (1) they continue to provide service in the face of internal or
+external disruptions; (2) they can be easily restored to a previously known state with no
+data loss in the event of a disruption; (3) they provide accurate and timely service
+whenever needed; (4) required changes and upgrades do not disrupt them; (5) they
+contain minimal software bugs on release; and (6) they work as expected or promised.
+Business
+integrity
+Be responsive—take responsibility for problems and take action to correct them. Be
+transparent—be open in dealings with customers, keep motives clear, keep promises,
+and make sure customers know where they stand in dealing with the company.
+is perfect, so systems and procedures must be monitored to detect a possible intrusion.
+If an intrusion occurs, there must be a clear reaction plan that addresses notification,
+evidence protection, activity log maintenance, containment, eradication, and recovery.
+The following sections discuss these activities. Risk Assessment
+Risk assessment is the process of assessing security-related risks to an organization’s
+computers and networks from both internal and external threats. Such threats can prevent
+an organization from meeting its key business objectives. The goal of risk assessment is to
+identify which investments of time and resources will best protect the organization from
+its most likely and serious threats. In the context of an IT risk assessment, an asset is
+any hardware, software, information system, network, or database that is used by the
+organization to achieve its business objectives. A loss event is any occurrence that has
+a negative impact on an asset, such as a computer contracting a virus or a Web site
+undergoing a distributed denial-of-service attack. Figure 3-5 illustrates a general security
+risk assessment process developed by ASIS International.
+Identify
+assets General Security Risk Assessment
+Specify
+loss events
+Frequency
+of events
+Anticipated or actual change
+Impact of
+events
+Options to
+mitigate
+Feasibility of
+options
+Cost/benefit
+analysis
+Decision
+Reassessment
+FIGURE 3-5 General security risk assessment
+Source Line: General Security Risk Assessment Guidelines, ASIS International (2003). See the Standards and Guidelines page of
+the ASIS International website (www.asisonline.org) for revisions and/or updates. Reprinted by permission.
+The steps in a general security risk assessment process are as follows:
+• Step 1—Identify the set of IT assets about which the organization is most
+concerned. Priority is typically given to those assets that support the
+organization’s mission and the meeting of its primary business goals.
+• Step 2—Identify the loss events or the risks or threats that could occur, such
+as a distributed denial-of-service attack or insider fraud.
+• Step 3—Assess the frequency of events or the likelihood of each potential threat;
+some threats, such as insider fraud, are more likely to occur than others.
+Chapter 3
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+• Step 4—Determine the impact of each threat occurring. Would the threat
+have a minor impact on the organization, or could it keep the organization
+from carrying out its mission for a lengthy period of time?
+• Step 5—Determine how each threat can be mitigated so that it becomes much
+less likely to occur or, if it does occur, has less of an impact on the organiza-
+tion. For example, installing virus protection on all computers makes it much
+less likely for a computer to contract a virus. Due to time and resource limita-
+tions, most organizations choose to focus on those threats that have a high
+(relative to all other threats) frequency and a high (relative to all other threats)
+impact. In other words, first address those threats that are likely to occur and
+that would have a high negative impact on the organization.
+• Step 6—Assess the feasibility of implementing the mitigation options.
+• Step 7—Perform a cost-benefit analysis to ensure that your efforts will be
+cost effective. No amount of resources can guarantee a perfect security sys-
+tem, so organizations must balance the risk of a security breach with the cost
+of preventing one. The concept of reasonable assurance recognizes that
+managers must use their judgment to ensure that the cost of control does not
+exceed the system’s benefits or the risks involved.
+• Step 8—Make the decision on whether or not to implement a particular
+countermeasure. If you decide against implementing a particular counter-
+measure, you need to reassess if the threat is truly serious and, if so, identify
+a less costly countermeasure.
+a less costly countermeasure.
+103
+The general security risk assessment process—and the results of that process—will vary
+by organization. Table 3-8 illustrates a risk assessment for a hypothetical organization.
+TABLE 3-8 Risk assessment for hypothetical company
+Source Line: Course Technology/Cengage Learning.A completed risk assessment identifies the most dangerous threats to a company and
+helps focus security efforts on the areas of highest payoff.
+Establishing a Security Policy
+A security policy defines an organization’s security requirements, as well as the controls and
+sanctions needed to meet those requirements. A good security policy delineates responsibil-
+ities and the behavior expected of members of the organization. A security policy outlines
+what needs to be done but not how to do it. The details of how to accomplish the goals of
+the policy are typically provided in separate documents and procedure guidelines.
+The SANS (SysAdmin, Audit, Network, Security) Institute’s Web site offers a number
+of security-related policy templates that can help an organization to quickly develop effec-
+tive security policies. The templates and other security policy information can be found at
+www.sans.org/security-resources/policies. The following is a partial list of the templates
+available from the SANS Institute:
+• Ethics Policy—This template defines the means to establish a culture of
+openness, trust, and integrity in business practices.
+• Information Sensitivity Policy—This sample policy defines the requirements
+for classifying and securing the organization’s information in a manner
+appropriate to its level of sensitivity.
+• Risk Assessment Policy—This template defines the requirements and
+provides the authority for the information security team to identify, assess,
+and remediate risks to the organization’s information infrastructure
+associated with conducting business.
+• Personal Communication Devices and Voice-mail Policy—This sample pol-
+icy describes security requirements for personal communication devices and
+voice mail.
+Whenever possible, automated system rules should mirror an organization’s written poli-
+cies. Automated system rules can often be put into practice using the configuration options in
+a software program. For example, if a written policy states that passwords must be changed
+every 30 days, then all systems should be configured to enforce this policy automatically.
+However, users will often attempt to circumvent security policies or simply ignore them
+altogether. For example, manufacturers of network routers urge users to change the default
+password of their router when they first set it up. A hacker discovered numerous routers
+around the world that are still using the default password and published a list of these routers
+and their IP addresses so that anyone can get into the associated network and wreak havoc.35
+When applying system security restrictions, there are some trade-offs between ease
+of use and increased security; however, when a decision is made to favor ease of use,
+security incidents sometimes increase. As security techniques continue to advance in
+sophistication, they become more transparent to end users.
+The use of email attachments is a critical security issue that should be addressed in
+every organization’s security policy. Sophisticated attackers may be able to penetrate a
+network via email attachments, regardless of the existence of a firewall and other security
+measures. As a result, some companies have chosen to block any incoming mail that has
+a file attachment, which greatly reduces their vulnerability. Some companies allow
+employees to receive and open email with attachments, but only if the email is expected
+Chapter 3
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+and from someone known by the recipient. Such a policy can be risky, however, because
+worms often use the address book of their victims to generate emails to a target audience.
+Another growing area of concern is the use of wireless devices to access corporate email,
+store confidential data, and run critical applications, such as inventory management and sales
+force automation. Mobile devices such as smartphones can be susceptible to viruses and
+worms. However, the primary security threat for mobile devices continues to be loss or theft
+of the device. Wary companies have begun to include special security requirements for mobile
+devices as part of their security policies. In some cases, users of laptops and mobile devices
+must use a virtual private network to gain access to their corporate network.
+A virtual private network (VPN) works by using the Internet to relay communica-
+tions; it maintains privacy through security procedures and tunneling protocols, which
+encrypt data at the sending end and decrypt it at the receiving end. An additional level of
+security involves encrypting the originating and receiving network addresses. Because of
+the ease of loss or theft, many organizations encrypt all sensitive corporate data stored on
+handhelds and laptops. Unfortunately, it is hard to apply a single, simple approach to
+securing all handheld devices because so many manufacturers and models exist.
+Educating Employees and Contract Workers
+An ongoing security problem for companies is creating and enhancing user awareness of
+security policies. Employees and contract workers must be educated about the importance
+of security so that they will be motivated to understand and follow the security policies.
+This can often be accomplished by discussing recent security incidents that affected the
+organization. Users must understand that they are a key part of the security system and
+that they have certain responsibilities. For example, users must help protect an organiza-
+tion’s information systems and data by doing the following:
+• Guarding their passwords to protect against unauthorized access to their accounts
+• Prohibiting others from using their passwords
+• Applying strict access controls (file and directory permissions) to protect
+data from disclosure or destruction
+• Reporting all unusual activity to the organization’s IT security group
+• Taking care to ensure that portable computing and data storage devices are
+protected (hundreds of thousands of laptops are lost or stolen per year)
+105
+Prevention
+No organization can ever be completely secure from attack. The key is to implement a
+layered security solution to make computer break-ins so difficult that an attacker eventu-
+ally gives up. In a layered solution, if an attacker breaks through one layer of security,
+there is another layer to overcome. These layers of protective measures are explained in
+more detail in the following sections.
+Installing a Corporate Firewall
+Installation of a corporate firewall is the most common security precaution taken by
+businesses. A firewall stands guard between an organization’s internal network an Firewalls can be established through the use of software, hardware, or a combination
+of both. Any Internet traffic that is not explicitly permitted into the internal network is
+denied entry. Similarly, most firewalls can be configured so that internal network users
+can be blocked from gaining access to certain Web sites based on such content as sex and
+violence. Most firewalls can also be configured to block instant messaging, access to news-
+groups, and other Internet activities.
+Installing a firewall can lead to another serious security issue—complacency. For
+example, a firewall cannot prevent a worm from entering the network as an email attach-
+ment. Most firewalls are configured to allow email and benign-looking attachments to
+reach their intended recipient.
+Table 3-9 lists some of the top-rated firewall software used to protect personal com-
+puters. The software suites below include antivirus, firewall, antispam, parental control,
+and phishing protection capabilities and sell for $70 to $90 per single user license.
+TABLE 3-9 Top-rated firewall software for personal computers
+Source Line: Neil J. Rubenking,“The Best Security Suites of 2013,” PC Magazine, September 19, 2012,
+www.pcmag.com/article2/0,2817,2369749,00.asp.
+Intrusion Detection Systems
+An intrusion detection system (IDS) is software and/or hardware that monitors system
+and network resources and activities, and notifies network security personnel when it
+detects network traffic that attempts to circumvent the security measures of a networked
+computer environment (see Figure 3-6). Such activities usually signal an attempt to
+breach the integrity of the system or to limit the availability of network resources.
+Knowledge-based approaches and behavior-based approaches are two fundamentally
+different approaches to intrusion detection. Knowledge-based intrusion detection systems
+contain information about specific attacks and system vulnerabilities and watch for
+attempts to exploit these vulnerabilities, such as repeated failed login attempts or recur-
+ring attempts to download a program to a server. When such an attempt is detected, an
+alarm is triggered. A behavior-based intrusion detection system models normal behavior of
+a system and its users from reference information collected by various means. The intru-
+sion detection system compares current activity with this model and generates an alarm if
+it finds a deviation. Examples include unusual traffic at odd hours or a user in the Human
+Resources Department who accesses an accounting program that she has never before
+used.
+Chapter 3
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+Messages from IDS routed
+to network security team
+IDS warns firewall of suspicious traffic. Network
+security team and logic in firewall decide what action
+to take, such as block all traffic from the source IP
+address of the suspicious traffic.
+107
+Organization’s intrusion
+detection system
+Internet
+Internet traffic
+Organization’s network
+router sends network traffic
+to both IDS and firewall
+Organization’s
+firewall
+Organization’s internal network
+FIGURE 3-6 Intrusion detection system
+Credit: © Monkey Business Images/Shutterstock.com.
+Installing Antivirus Software on Personal Computers
+Antivirus software should be installed on each user’s personal computer to scan a compu-
+ter’s memory and disk drives regularly for viruses. Antivirus software scans for a specific
+sequence of bytes, known as a virus signature, that indicates the presence of a specific
+virus. If it finds a virus, the antivirus software informs the user, and it may clean, delete,
+or quarantine any files, directories, or disks affected by the malicious code. Good antivirus
+software checks vital system files when the system is booted up, monitors the system con-
+tinuously for viruslike activity, scans disks, scans memory when a program is run, checks
+programs when they are downloaded, and scans email attachments before they are
+opened. Two of the most widely used antivirus software products are Norton AntiVirus
+from Symantec and Personal Firewall from McAfee.
+The United States Computer Emergency Readiness Team (US-CERT) is a partnership
+between the Department of Homeland Security and the public and private sectors—
+established in 2003 to protect the nation’s Internet infrastructure against cyberattacks.
+US-CERT serves as a clearinghouse for information on new viruses, worms, and other
+computer security topics (over 500 new viruses and worms are developed each month36).
+According to US-CERT, most of the virus and worm attacks that the team analyzes use
+already known malware programs. Thus, it is crucial that antivirus software be continually
+updated with the latest virus signatures. In most corporations, the network administrator
+is responsible for monitoring network security Web sites frequently and downloading
+updated antivirus software as needed. Many antivirus vendors recommend—and provide
+for—automatic and frequent updates. Unfortunately, antivirus software is not able to
+identify and block all viruses. In fact, in recent testing of 13 antivirus software packages,
+only two such programs (Kaspersky Internet Security 2012 and Alwil Avast Internet Security 2012) blocked more than 80 percent of a sample of known exploits, according to
+the independent testing firm NSS Labs.37
+Implementing Safeguards Against Attacks by Malicious Insiders
+User accounts that remain active after employees leave a company are another potential
+security risk. To reduce the threat of attack by malicious insiders, IT staff must promptly
+delete the computer accounts, login IDs, and passwords of departing employees and
+contractors.
+Organizations also need to define employee roles carefully and separate key responsi-
+bilities properly, so that a single person is not responsible for accomplishing a task that
+has high security implications. For example, it would not make sense to allow an employee
+to initiate as well as approve purchase orders. That would allow an employee to input large
+invoices on behalf of a“friendly vendor,” approve the invoices for payment, and then
+disappear from the company to split the money with the vendor. In addition to separating
+duties, many organizations frequently rotate people in sensitive positions to prevent
+potential insider crimes.
+Another important safeguard is to create roles and user accounts so that users have
+the authority to perform their responsibilities and nothing more. For example, members of
+the Finance Department should have different authorizations from members of the Human
+Resources Department. An accountant should not be able to review the pay and atten-
+dance records of an employee, and a member of Human Resources should not know how
+much was spent to modernize a piece of equipment. Even within one department, not all
+members should be given the same capabilities. Within the Finance Department, for
+example, some users may be able to approve invoices for payment, but others may only be
+able to enter them. An effective system administrator will identify the similarities among
+users and create profiles associated with these groups.
+Defending Against Cyberterrorism
+In the face of increasing risks of cyberterrorism, organizations need to be aware of the
+resources available to help them combat this serious threat. The Department of Homeland
+Security (DHS) leads the federal government’s efforts in“securing civilian government
+computer systems, and works with industry and state, local, tribal, and territorial govern-
+ments to secure critical infrastructure and information systems.”38 According to the
+department’s Web site, the DHS works to“analyze and reduce cyberthreats and vulner-
+abilities; distribute threat warnings; and coordinate the response to cyberincidents to
+ensure that our computers, networks, and cybersystems remain safe.”39
+The Protected Critical Infrastructure Information Program encourages private indus-
+try to share confidential information about the nation’s critical infrastructure with the
+DHS under the assurance that the information will be protected from public disclosure.
+This allows private industry and DHS to work jointly to identify threats and vulnerabilities
+and to develop countermeasures and defensive strategies.40
+Critical infrastructures include telecommunications, energy, banking and finance,
+water, government operations, and emergency services. Specific targets might include
+telephone-switching systems, an electric power grid that serves major portions of a geo-
+graphic region, or an air traffic control center that ensures airplanes can take off and land
+Chapter 3
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+safely. Successful cyberattacks on such targets could cause widespread and massive dis-
+ruptions to society. Some computer security experts believe that cyberterrorism attacks
+could be used to create further problems following a major act of terrorism by reducing
+the ability of fire and emergency teams to respond.
+Addressing the Most Critical Internet Security Threats
+The overwhelming majority of successful computer attacks takes advantage of well-known
+vulnerabilities. Computer attackers know that many organizations are slow to fix problems,
+which makes scanning the Internet for vulnerable systems an effective attack strategy.
+The rampant and destructive spread of worms, such as Blaster, Slammer, and Code Red,
+was made possible by the exploitation of known but unpatched vulnerabilities. US-CERT
+regularly updates a summary of the most frequent, high-impact vulnerabilities being
+reported to them. You can read this summary at www.us-cert.gov/current. The
+actions required to address these issues include installing a known patch to the software
+and keeping applications and operating systems up to date. Those responsible for com-
+puter security must make it a priority to prevent attacks using these vulnerabilities.
+Conducting Periodic IT Security Audits
+Another important prevention tool is a security audit that evaluates whether an organiza-
+tion has a well-considered security policy in place and if it is being followed. For example,
+if a policy says that all users must change their passwords every 30 days, the audit must
+check how well that policy is being implemented. The audit should also review who has
+access to particular systems and data and what level of authority each user has. It is not
+unusual for an audit to reveal that too many people have access to critical data and that
+many people have capabilities beyond those needed to perform their jobs. One result of a
+good audit is a list of items that need to be addressed in order to ensure that the security
+policy is being met.
+A thorough security audit should also test system safeguards to ensure that they are
+operating as intended. Such tests might include trying the default system passwords that
+are active when software is first received from the vendor. The goal of such a test is to
+ensure that all such known passwords have been changed.
+Some organizations will also perform a penetration test of their defenses. This entails
+assigning individuals to try to break through the measures and identify vulnerabilities that
+still need to be addressed. The individuals used for this test are knowledgeable and are
+likely to take unique approaches in testing the security measures.
+The Information Protection Assessment kit is an assessment tool available from
+the Computer Security Institute, an organization for information security professionals.
+The kit can be accessed at http://gocsi.com/ipak and is formatted as a Microsoft Excel®
+spreadsheet that covers 15 categories of security issues (e.g., physical security, business
+process controls, network security controls). Each category has approximately 20 state-
+ments used to rate the effectiveness of security for that category. Organizations can
+complete the survey to get a clear measure of t • A detailed discussion of vulnerabilities that were exploited
+• A determination of whether or not the host was compromised as a result of
+the attack
+• The nature of the data stored on the computer (customer, employee, etc.)
+• Whether the data is considered personal, private, or confidential
+• The number of hours the system was down
+• The overall impact on the business
+• An estimate of total monetary damage from the incident
+• A detailed chronology of all events associated with the incident
+Creating a detailed chronology of all events will also document the incident for later
+prosecution. To this end, it is critical to develop an estimate of the monetary damage.
+Potential costs include loss of revenue, loss in productivity, and the salaries of people work-
+ing to address the incident, along with the cost to replace data, software, and hardware.
+Another important issue is the amount of effort that should be put into capturing the
+perpetrator. If a Web site was simply defaced, it is easy to fix or restore the site’s HTML
+(Hypertext Markup Language—the code that describes to your browser how a Web page
+should look). However, what if the intruders inflicted more serious damage, such as eras-
+ing proprietary program source code or the contents of key corporate databases? What if
+they stole company trade secrets? Expert crackers can conceal their identity, and tracking
+them down can take a long time as well as a tremendous amount of corporate resources.
+The potential for negative publicity must also be considered. Discussing security attacks
+through public trials and the associated publicity has not only enormous potential costs in
+public relations but real monetary costs as well. For example, a bank or a brokerage firm
+might lose customers who learn of an attack and think their money or records aren’t secure.
+Even if a company decides that the negative publicity risk is worth it and goes after the
+perpetrator, documents containing proprietary information that must be provided to the
+court could cause even greater security threats in the future. On the other hand, an organi-
+zation must decide if it has an ethical or a legal duty to inform customers or clients of a
+cyberattack that may have put their personal data or financial resources at risk.
+Symantec, a leading provider of security software, was attacked in 2006 and the
+source code for several of its products was stolen. The firm did not report the embarrassing
+incident until six years later. The delay in reporting the breach raised customer concern
+and put the company on the defensive.43
+Computer Forensics
+Computer forensics is a discipline that combines elements of law and computer science to
+identify, collect, examine, and preserve data from computer systems, networks, and stor-
+age devices in a manner that preserves the integrity of the data gathered so that it is
+admissible as evidence in a court of law. A computer forensics investigation may be
+opened in response to a criminal investigation or civil litigation. It may also be launched
+for a variety of other reasons, for example, to retrace steps taken when data has been lost,
+to assess damage following a computer incident, to investigate the unauthorized disclosure
+of personal or corporate confidential data, or to confirm or evaluate the impact of industrial
+espionage.
+Chapter 3
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+Proper handling of a computer forensics investigation is the key to fighting computer
+crime successfully in a court of law. In addition, extensive training and certification
+increases the stature of a computer forensics investigator in a court of law. There are
+numerous certifications related to computer forensics, including the CCE (Certified
+Computer Examiner), CISSP (Certified Information Systems Security Professional),
+CSFA (CyberSecurity Forensic Analyst), and GCFA (Global Information Assurance
+Certification Certified Forensics Analyst). The EnCE Certified Examiner program certifies
+professionals who have mastered computer investigation methods as well as the use of
+Guidance Software’s EnCase computer forensics software. Numerous universities (both
+online and traditional) offer degrees specializing in computer forensics. Such degree
+programs should include training in accounting, particularly auditing, as this is very useful
+in the investigation of cases involving fraud.
+A computer forensics investigator must be knowledgeable about the various laws that
+apply to the gathering of criminal evidence; see Table 3-10 for a partial list.
+113
+Law Subject area
+Fourth Amendment Protects against unreasonable search and seizure
+Fifth Amendment Provides protection from self-incrimination
+Wiretap Act (18 U.S.C. 2510-2522) Regulates the collection of the content of wire and
+electronic communications
+Pen Registers and Trap and Trace Devices
+Statute (18 U.S.C. 3121-27)
+Provides restrictions on the use of pen registers and
+trap and trace devices (a pen register is a device
+that records all numbers dialed from a particular
+phone; a trap and trace device shows the phone
+numbers that have made calls to a specific phone)
+Stored Wire and Electronic Communications
+Act (18 U.S.C 2701-120)
+Addresses the disclosure of stored wired and
+electronic communications and transaction records
+by Internet service providers
+TABLE 3-10 Partial list of constitutional amendments and statutes governing the collection of
+evidence
+Source Line: Course Technology/Cengage Learning.
+Violation of any one of these laws could result in a case being thrown out of court. It
+could even result in the investigator being charged with a federal felony, punishable by a
+fine and/or imprisonment.
+Table 3-11 provides a manager’s checklist for evaluating an organization’s readiness
+for a security incident. The preferred answer to each question is yes.

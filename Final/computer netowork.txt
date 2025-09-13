@@ -1,0 +1,418 @@
+Chapter 2
+Morality
+LEARNING OBJECTIVES:
+After reading this chapter, the reader should be able to:
+• Understand how to make sound moral reasoning.
+• Discuss moral values and ideals in a person’s life.
+• Understand the relationship between morality and religion.
+• Understand what it means to have moral principles, the nature of con-
+science, and the relationship between morality and self- interest.
+Human beings do not live randomly. We follow a complex script, a life
+script, a script based on cultural, religious, and philosophical concepts and
+beliefs. Using the guidelines in that script, individuals then determine whether
+their actions are right or wrong. The concepts and beliefs making up the guide-
+lines are formulated, generalized, and codified by individual cultures or groups
+over long periods of time. The main purpose of such guidelines is to regulate
+the behavior of the members of that culture or group to create happiness for
+all members of the culture or group. We define the concept of morality as the
+conformity to such guidelines.
+Morality
+Morality is a set of rules of right conduct, a system used to modify and
+regulate our behavior. It is a quality system by which we judge human acts
+right or wrong, good or bad. This system creates moral persons who possess
+virtues like love for others, compassion, and a desire for justice; thus, it builds
+character traits in people. Morality is a lived set of shared rules, principles,
+and duties, independent from religion which is practiced, applicable to all in
+a group or society, and having no reference to the will or power of any one
+11
+12 Computer Network Security and Cyber Ethics
+individual whatever his or her status in that group or society. Every time we
+interact in a society or group, we act the moral subscript. Because morality is
+territorial and culturally based, as long as we live in a society, we are bound to
+live the society’s moral script. The actions of individuals in a society only have
+moral values if taken within the context of this very society and the culture
+of the individual.
+Although moral values are generally lived and shared values in a society,
+the degree of living and sharing of these values varies greatly. We may agree
+more on values like truth, justice, and loyalty than on others. A number of fac-
+tors influence the context of morality, including time and place.
+Moral Theories
+If morality is a set of shared values among people in a specific society,
+why do we have to worry about justifying those values to people who are not
+members of that society? To justify an action or a principle requires showing
+good reason for its existence and why there are no better alternatives. Justifying
+morality is not a simple thing since morality, by its own definition, is not
+simply justifiable especially to an outsider. Moral reasons require more justi-
+fication than social reasons because moral reasons are much stronger than aes-
+thetic ones; for example, murder is not immoral just because most people find
+it revolting; it is much more than that. To justify more reasons, therefore, we
+need something strong and plausible to anchor our reasoning on. That some-
+thing cannot be religion, for example, because one’s religion is not everyone’s
+religion. We need something that demonstrates that the balance of good in
+an action is favorable to other people, not only to one’s interests and desires.
+Moral theories do satisfy this purpose. According to Chris MacDonald, moral
+theories “seek to introduce a degree of rationality and rigor into our moral
+deliberations.”1 They give our deliberations plausibility and help us better
+understand those values and the contradictions therein. Because many philoso-
+phers and others use the words moral and ethical synonymously, we delay the
+discussion of moral theories until we discuss ethics.
+Moral Codes
+For one to be morally good, one must practice the qualities of being good.
+To live these qualities, one must practice and live within the guidelines of these
+qualities. These guidelines are moral codes. The Internet Encyclopedia of Phi-
+losophy defines moral codes as rules or norms within a group for what is proper behavior for the members of that group.2 The norm itself is a rule, standard,
+or measure for us to compare something else whose qualities we doubt. In a
+way, moral codes are shared behavioral patterns of a group. These patterns
+have been with us since the first human beings inhabited the Earth and have
+evolved mainly for survival of the group or society. Societies and cultures sur-
+vive and thrive because of the moral code they observe. Societies and cultures
+throughout history like the once mighty Babylonians, Romans, and Byzantines
+probably failed because their codes failed to cope with the changing times.
+We have established that morality and cultures are different in different
+societies. This does not, however, exclude the existence of the commonality
+of humanity with timeless moral code. These codes are many and they come
+in different forms including:
+• The Golden Rule: “Do unto others as you would have them do unto
+you.”
+• The Bronze Rule: “Repay kindness with kindness.” This rule is widely
+observed because of its many varying interpretations.
+There is a commonality of good in these rules which equate to Carl
+Sagan’s culture- free and timeless universal set of moral codes3:
+• Be friendly at first meeting.
+• Do not envy.
+• Be generous; forgive your enemy if he or she forgives you.
+• Be neither a tyrant nor a patsy.
+• Retaliate proportionately to an intentional injury (within the con-
+straints of the rule of the law).
+• Make your behavior fairly (although not perfectly) clear and consis-
+tent.
+The purpose of moral codes in a society is to exert control over the actions
+of the society’s members that result from emotions. Observance of moral codes
+in most societies is almost involuntary mostly because members of such soci-
+eties grow up with these codes so they tend to follow them religiously without
+question. In some societies, observance is enforced through superstition, and
+in others through folklore and custom.
+The Need for a Moral Code
+When you ask people what kind of life they like most, the most popular
+answer is always going to be a life full of freedoms. They want to be free. Dem-
+ocratic societies always claim to be free. The citizens have freedom. When you
+14 Computer Network Security and Cyber Ethics
+ask anyone what they mean by freedom, they will say that freedom is doing
+what they want to do, when they want to do it, and in the way that they want
+to do it. What they are actually talking about is a life without restraints.
+But can we live in a society where an individual can do anything that he
+or she wants? Popular culture dictates this kind of freedom. One would there-
+fore say that in a world or society like this, where everyone enjoys full freedoms,
+there would be anarchy. Well, not so. God created humans, probably the only
+creatures on earth who can reason. God endowed us with the capacity to rea-
+son, to create guidelines for life so that everyone can enjoy freedom with rea-
+son. Freedom with reason is the bedrock of morality. True, morality cannot
+exist without freedom. Because humans have the capacity to reason, they can
+attain the freedom they want by keeping a moral code. The moral code, there-
+fore, is essential for humanity to attain and keep the freedoms humans need.
+By neglecting the moral code in search of more freedoms, human beings can
+lose the essential freedoms they need to live. Lee Bohannon calls it a moral
+paradox: by wrongly using your freedom, you lose your freedom.4 Humanity
+must realize the need for freedom within reasonable restraints—with the moral
+code, because without the code, absolute freedoms result in no freedom at all.
+Moral Standards
+A moral standard is a moral norm, a standard to which we compare
+human actions to determine their goodness or badness. This standard guides
+and enforces policy. Morality is a system that, in addition to setting standards
+of virtuous conduct for people, also consists of mechanisms to self- regulate
+through enforcement of the moral code and to self- judge through guilt, which
+is an internal discomfort resulting from disappointment self- mediated by con-
+science.
+Guilt and Conscience
+Moral guilt is a result of self- judging and punishing oneself for not living
+up to the moral standards set for oneself or for the group. If individuals judge
+that they have not done “good” according to moral standards, they activate
+the guilt response, which usually makes them feel bad, hide their actions from
+both self and others, and find a fitting punishment for themselves, sometimes
+a very severe punishment. This internal judgment system is brought about
+because human beings have no sure way of telling whether an action is good
+or bad based independently on their own standards. Individual standards are 2—Morality 15
+usually judged based on group standards. So individuals judge themselves
+based on group standards, and self- judgment sets in whenever one’s actions
+fall short of the group’s standards.
+The problem with guilt is that it can be cumulative. If individuals commit
+acts repeatedly that they judge to be below moral standards, they tend to
+become more and more withdrawn. This isolation often leads individuals to
+become more comfortable with the guilt. As they become comfortable living
+with the guilt, their previous actions, which were previously judged below
+standards, begin to look not so bad after all. Individuals become more and
+more complacent about the guilt and begin to look at the whole moral system
+as amoral.
+Guilt can be eased by encouraging people to focus on the intentions
+behind the actions. Sometimes the intentions may be good but the resulting
+action is bad. In such a case the individual should not feel so guilty about the
+action. Besides looking for intent, one should also have the will and ability to
+forgive oneself. Self- forgiveness limits the cumulative nature of guilt and hence
+helps an individual to keep within the group.
+Our moral code, and many times the law, lay out the general principles
+that we ought not do because it is wrong to do it. The law also tells us not to
+do this or that because it is illegal to do so. However, both systems do not spe-
+cifically tell us whether a particular human action is an immoral or illegal act.
+The link must be made by the individual—a self- realization. It is this inner
+judgment that tells us if the act just committed is right or wrong, lawful or
+unlawful. This inner judgment is what we call conscience. Additionally, con-
+science is the capacity and ability to judge our actions ourselves based on what
+we set as our moral standards. The word conscience comes from the Latin word
+conscientia which means knowing with. It is an “inner voice” telling us what to
+do or not to do. This kind of self- judgment is based on the responsibility and
+control we have over our actions. Conscience is motivated by good feelings
+within us such as pride, compassion, empathy, love, and personal identification.
+Conscience evolves as individuals grow. The childhood conscience is far dif-
+ferent from the adult conscience because the perception of evil evolves with
+age. The benefits of conscience are that the actions taken with good conscience,
+even if the results are bad, do not make one guilty of the actions.
+Fr. Austin Fagothey5 writes that conscience applies to three things:
+(i) the intellect as a faculty of forming judgments about right and wrong
+individual acts,
+(ii) the process of reasoning that the intellect goes through to reach such
+judgment, and
+(iii) the judgment itself which is the conclusion of this reasoning process.
+16 Computer Network Security and Cyber Ethics
+We have seen in this section that morality does not belong to any indi-
+vidual, nor does it belong to any society or group of people. Thus, it cannot
+be localized. However, those parts of the moral code that can be localized
+become law.
+The Purpose of Morality—The Good Life
+According to Michael Miller, the ancients identified the purpose of
+morality with the chief good. Because morality is territorial, whatever chief
+good they proposed—happiness for Aristotle, no pain for Epicurus, apathy
+for the Stoics, heavenly afterlife for Christians—they took that chief good to
+be the moral purpos
+chapter 3 Chapter 3
+Ethics
+LEARNING OBJECTIVES:
+After reading this chapter, the reader should be able to:
+• Analyze an argument to identify premises and conclusion using ethical the-
+ories.
+• Understand the use of ethical theories in ethical arguments.
+• Detect basic logical fallacies in an argument.
+• Articulate the ethical tradeoffs in a technical decision.
+• Understand the role of professional codes of ethics.
+“The unexamined life is not worth living.” This is a statement made by
+Socrates before the Athenian court. The jury gave him a death sentence for
+his menacing practice of going around Athens asking its citizens the ultimate
+questions of human existence.1 Socrates agreed to drink hemlock and kill him-
+self for his belief in a science that represents a rational inquiry into the meaning
+of life. Socrates’s pursuit was a result of the Greeks’ curiosity and their desire
+to learn about themselves, human life and society. This led to the examination
+of all human life, to which Socrates devoted his life. Philosophers call this
+ethics. Ethics is, therefore, the study of right and wrong in human conduct.
+Ethics can also be defined as a theoretical examination of morality or “theory
+of morals.” Other philosophers have defined ethics in a variety of ways.
+Robert C. Solomon, in Morality and the Good Life,
+2 defines ethics as a set
+of “theories of value, virtue, or of right (valuable) action.” O.J. Johnson, on the
+other hand, defines ethics as a set of theories “that provide general rules or
+principles to be used in making moral decisions and, unlike ordinary intuitions,
+provides a justification for those rules.”3 The word ethics comes from the ancient
+Greek word eché,
+4 which means character. Every human society practices ethics
+in some way because every society attaches a value on a continuum of good to
+bad, right to wrong, to an individual’s actions according to where that indi-
+vidual’s actions fall within the domain of that society’s rules and canons.
+17
+18 Computer Network Security and Cyber Ethics
+The role of ethics is to help societies distinguish between right and wrong
+and to give each society a basis for justifying the judgment of human actions.
+Ethics is, therefore, a field of inquiry whose subject is human actions, collec-
+tively called human conduct, that are taken consciously, willfully, and for which
+one can be held responsible. According to Fr. Austin Fagothey,5 such acts must
+have knowledge, which signifies the presence of a motive, be voluntary, and
+have freedom to signify the presence of free choice to act or not to act.
+The purpose of ethics is to interpret human conduct, acknowledging and
+distinguishing between right and wrong. The interpretation is based on a sys-
+tem which uses a mixture of induction and deduction. In most cases, these
+arguments are based on historical schools of thought called ethical theories.
+There are many different kinds of ethical theories, and within each theory
+there may be different versions of that theory. Let us discuss these next.
+Ethical Theories
+Since the dawn of humanity, human actions have been judged good or
+bad, right or wrong based on theories or systems of justice developed, tested,
+revised, and debated by philosophers and elders in each society. Such theories
+are commonly known as ethical theories. An ethical theory determines if an
+action or set of actions is morally right or wrong. Codes of ethics have been
+drawn up based on these ethical theories. The processes of reasoning, expla-
+nation, and justification used in ethics are based on these theories. Ethical the-
+ories fall into two categories: those based on one choosing his or her action
+based on the expected maximum value or values as a consequence of the action
+and those based on one choosing his or her action based on one’s obligation
+or requirements of duty. The Greeks called the first category of theories telos,
+meaning purpose or aim. We now call these teleological or consequentialist the-
+ories. The Greeks called the second category of theories deon, meaning binding
+or necessary. Today, we call them deontological theories.6
+Consequentialist Theories
+We think of the right action as that which produces good consequences.
+If an act produces good consequences, then it is the right thing to do. Those
+who subscribe to this position are called consequentialists. Consequentialist
+theories judge human actions as good or bad, right or wrong, based on the
+best attainable results of such actions—a desirable result denotes a good action,
+and vice versa. According to Richard T. Hull, consequentialist theories “have
+three parts: a theory of value, a principle of utility, and a decision procedure.”7 Within these are further theories. For example, in the theory of value there
+are several other theories held by consequentialists including8:
+• Hedonism, which equates good with pleasure, bad or evil with pain.
+• Eudamonism, which equates good with happiness, bad or evil with
+unhappiness.
+• Agathism, which views good as an indefinable, intrinsic feature of var-
+ious situations and states. Evil is seen as either an indefinable, intrinsic
+feature of other situations and states, or simply as the absence of good.
+• Agapeism, which equates good with live, bad with hate.
+• Values pluralism, which holds that there are many kinds of good,
+including pleasure and happiness, but also knowledge, friendship, love,
+and so forth. These may or may not be viewed as differing in impor-
+tance or priority.
+There are three commonly discussed types of consequentialist theory9:
+(i) (ii) (iii) Egoism puts an individual’s interests and happiness above everything
+else. With egoism, any action is good as long as it maximizes an indi-
+vidual’s overall happiness. There are two kinds of egoism: ethical ego-
+ism, which states how people ought to behave as they pursue their own
+interests, and psychological egoism, which describes how people actu-
+ally behave.
+Utilitarianism, unlike egoism, puts a group’s interest and happiness
+above those of an individual, for the good of many. Thus, an action is
+good if it benefits the maximum number of people. Among the forms
+of utilitarianism are the following:
+• Act utilitarianism tells one to consider seriously the consequences
+of all actions before choosing that with the best overall advantage,
+happiness in this case, for the maximum number of people.10
+• Rule utilitarianism tells one to obey those rules that bring the max-
+imum happiness to the greatest number of people. Rule utilitarian-
+ism maintains that a behavioral code or rule is good if the
+consequences of adopting that rule are favorable to the greatest
+number of people.11
+Altruism states that an action is right if the consequences of that action
+are favorable to all except the actor.
+Deontological Theories
+The theory of deontological reason does not concern itself with the con-
+sequences of the action but rather with the will of the action. An action is
+20 Computer Network Security and Cyber Ethics
+good or bad depending on the will inherent in it. According to deontological
+theory, an act is considered good if the individual committing it had a good
+reason to do so. This theory has a duty attached to it. For example, we know
+that killing is bad, but if an armed intruder enters your house and you kill
+him, your action is good, according to deontologists. You did it because you
+had a duty to protect your family and property. Deontologists fall into two
+categories: act deontologists and rule deontologists.
+• Act deontologists consider every judgment of moral obligation to be
+based on its own merit. We decide separately in each particular situ-
+ation what is the right thing to do.
+• Rule deontologists consider that one’s duty in any situation is to act
+within rules.
+All other contemporary ethical theories, as Richard T. Hull contends, are
+hybrids of utilitarianist and deontologist theories.
+The process of ethical reasoning takes several steps, which we refer to as
+layers of reasoning, before one can justify to someone else the goodness or bad-
+ness, rightness or wrongness of one’s action. For example, if someone wants
+to convince you to own a concealed gun, he or she needs to explain to you
+why it is good to have a concealed gun. In such an exercise, the person may
+start by explaining to you that we are living in difficult times and that no one
+is safe. You may then ask why no one is safe, to which the person might reply
+that there are many bad people out there in possession of high- powered guns
+waiting to fire them for various and very often unbelievable reasons. So owning
+a gun will level the playing field. Then you may ask why owning a gun levels
+the playing field, to which the answer would be that if the bad guys suspect
+that you own a gun just like theirs, they will think twice before attacking you.
+You may further ask why this is so; the answer may be that if they attack you,
+they themselves can get killed in the action. Therefore, because of this fear,
+you are not likely to be attacked. Hence, owning a gun may save your life and
+enable you to continue pursuing the ultimate concept of the good life: hap-
+piness.
+On the other hand, to convince somebody not to own a concealed gun
+also needs a plausible explanation and several layers of reasoning to demon-
+strate why owning a gun is bad. Why is it a bad thing, you would ask, and the
+answer would be because bad guys will always get guns. And if they do, the
+possibility of everyone having a concealed gun may make those bad guys
+trigger- happy to get you fast before you get them. It also evokes an imageof
+the Wild West filled with gun- toting people daring everyone in order to get
+a kick out of what may be a boring life. You would then ask why is this situation dangerous if no one fires? The reply might be because it creates a situation in
+which innocent people may get hurt, denying them happiness and the good
+life. The explanation and reasoning process can go on and on for several more
+layers before one is convinced that owning a gun is good or bad. The act of
+owning a gun is a human act that can be judged as either good or bad, right
+or wrong depending on the moral and ethical principles used.
+The spectrum of human actions on which ethical judgments can be based
+is wide- ranging, from simple, traditional and easy to understand actions like
+killing and stealing, to complex and abstract ones like hacking, cellular tele-
+phone scanning, and subliminal human brain alterations. On one side of this
+spectrum, the inputs have straight output value judgments of right and wrong
+or good and evil. The other end of the spectrum, however, has inputs that can-
+not be easily mapped into the same output value judgments of right and wrong
+or good and evil. It is on this side of the input spectrum that most new human
+actions, created as a result of computer technology, are found. It is at this end,
+therefore, that we need an updated definition of ethics—a functional defini-
+tion.
+Codes of Ethics
+The main domains in which ethics is defined are governed by a particular
+and definitive regiment of guidelines and rules of thumb called codes of ethics.
+These rules, guidelines, canons, advisories, or whatever you want to call them,
+are usually followed by members of the respective domains. For example, your
+family has an ethical set of rules that every member of the family must observe.
+Your school has a set of conduct rules that all students, staff and faculty must
+observe. And, your college has a set of rules that govern the use of college com-
+puters. So depending on the domain, ethical codes can take any of the following
+forms:
+• principles, which may act as guidelines, references, or bases for some
+document;
+• public policies, which may include aspects of acceptable behavior,
+norms, and practices of a society or group;
+• codes of conduct, which may include ethical principles; and
+• legal instruments, which enforce good conduct through courts.
+Although the use of ethical codes is still limited to professions and high
+visibility institutions and businesses, there is a growing movement toward
+widespread use. The wording, content, and target of codes can differ greatly.
+22 Computer Network Security and Cyber Ethics
+Some codes are written purposely for the public, others target employees, and
+yet others are for professionals only. The reader is referred to the codes of the
+Association of Computing Machinery (ACM) and the Institute of Electric
+and Electronics Engineers’ Computer Society (IEEE Computer), both pro-
+fessional organizations. Codes for the ACM can be found at and those for
+IEEE Computer at www.ieee.org.
+Objectives of Codes of Ethics
+Different domains and groups of people formulate different codes of
+ethics, but they all have the following objectives:
+• Disciplinary: By instilling discipline, the group or profession ensures
+professionalism and integrity of its members.
+• Advisory: Codes are usually a good source of tips for members, offering
+advice and guidance in areas where moral issues are fuzzy.
+• Educational: Ethical codes are good educational tools for members of
+the domain, especially new members who have to learn the dos and
+don’ts of the profession. The codes are also a good resource for existing
+members needing to refresh and polish their possibly waning morals.
+• Inspirational: Besides being disciplinary, advisory, and educational,
+codes should also carry subliminal messages to those using them to
+inspire them to be good.
+• Publicity: One way for professions to create a good clientele is to show
+that they have a strong code of ethics and, therefore, their members
+are committed to basic values and are responsible.
+The Relevancy of Ethics to Modern Life
+When Socrates made the statement, “the unexamined life is not worth
+living” before the Athens court in 399 BC, human life was the same as it is
+today in almost every aspect except quality. Not much has changed in the
+essence of life since Socrates’s time and now. We still struggle for the meaning
+of life, we work to improve the quality of life and we do not rest unless we
+have love, justice and happiness for all. Socrates spent time questioning the
+people of Athens so that they, together with him, could examine their indi-
+vidual lives to find “What I Individually Ought to Do” and “To Improve the
+Lot of Humankind.” Many philosophers and those not so schooled believe
+that this is the purpose of ethics.
+The difficulty in finding “What I Individually Ought to Do” has always been, and continues to be for a modern life, a myriad of decisions that must
+be made quickly, with overwhelming and quickly changing information, and
+must be done reasonably well. This is not a simple statement that can be
+quickly overlooked. We face these decision- making dilemmas every minute of
+every day. Under these circumstances, when we are faced with the need to
+make such decisions, do we really have enough information to make a sound
+decision? When the information at hand is not complete and when the nec-
+essary knowledge and understanding of reality is lacking, the ability to identify
+the consequences of a decision may often lead to a bad decision. For a number
+of people, when the ingredients of a good decision- making process are missing,
+they rely on habits. Decisions based on habits are not always sound ethical
+decisions, and they are not always good.
+The purpose of ethics has been and continues to be, especially for us in
+a modern and technologically driven society, the establishment of basic guide-
+lines and rules of thumb for determining which behaviors are most likely to
+promote the achievement of the “The Best,” over the long- term.12 These guide-
+lines and rules of thumb are the codes of ethics. 
