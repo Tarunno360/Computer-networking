@@ -13,7 +13,7 @@ R1(config-router)#default-information originate
 R1(config-router)#exit
 R1(config)#exit
 R1#copy run start
-
+R1# runst
 Router2
 
 R2>en
